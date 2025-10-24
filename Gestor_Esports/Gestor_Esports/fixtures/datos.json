@@ -1,0 +1,4042 @@
+[
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add equipo",
+        "content_type": 7,
+        "codename": "add_equipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change equipo",
+        "content_type": 7,
+        "codename": "change_equipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete equipo",
+        "content_type": 7,
+        "codename": "delete_equipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view equipo",
+        "content_type": 7,
+        "codename": "view_equipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add juego",
+        "content_type": 8,
+        "codename": "add_juego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change juego",
+        "content_type": 8,
+        "codename": "change_juego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete juego",
+        "content_type": 8,
+        "codename": "delete_juego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view juego",
+        "content_type": 8,
+        "codename": "view_juego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add patrocinador",
+        "content_type": 9,
+        "codename": "add_patrocinador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change patrocinador",
+        "content_type": 9,
+        "codename": "change_patrocinador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete patrocinador",
+        "content_type": 9,
+        "codename": "delete_patrocinador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view patrocinador",
+        "content_type": 9,
+        "codename": "view_patrocinador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add usuario",
+        "content_type": 10,
+        "codename": "add_usuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change usuario",
+        "content_type": 10,
+        "codename": "change_usuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete usuario",
+        "content_type": 10,
+        "codename": "delete_usuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view usuario",
+        "content_type": 10,
+        "codename": "view_usuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add contrato",
+        "content_type": 11,
+        "codename": "add_contrato"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change contrato",
+        "content_type": 11,
+        "codename": "change_contrato"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete contrato",
+        "content_type": 11,
+        "codename": "delete_contrato"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view contrato",
+        "content_type": 11,
+        "codename": "view_contrato"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+        "name": "Can add jugador",
+        "content_type": 12,
+        "codename": "add_jugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+        "name": "Can change jugador",
+        "content_type": 12,
+        "codename": "change_jugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+        "name": "Can delete jugador",
+        "content_type": 12,
+        "codename": "delete_jugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+        "name": "Can view jugador",
+        "content_type": 12,
+        "codename": "view_jugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+        "name": "Can add estadistica jugador",
+        "content_type": 13,
+        "codename": "add_estadisticajugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+        "name": "Can change estadistica jugador",
+        "content_type": 13,
+        "codename": "change_estadisticajugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+        "name": "Can delete estadistica jugador",
+        "content_type": 13,
+        "codename": "delete_estadisticajugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+        "name": "Can view estadistica jugador",
+        "content_type": 13,
+        "codename": "view_estadisticajugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+        "name": "Can add participacion",
+        "content_type": 14,
+        "codename": "add_participacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+        "name": "Can change participacion",
+        "content_type": 14,
+        "codename": "change_participacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+        "name": "Can delete participacion",
+        "content_type": 14,
+        "codename": "delete_participacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+        "name": "Can view participacion",
+        "content_type": 14,
+        "codename": "view_participacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+        "name": "Can add torneo",
+        "content_type": 15,
+        "codename": "add_torneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+        "name": "Can change torneo",
+        "content_type": 15,
+        "codename": "change_torneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+        "name": "Can delete torneo",
+        "content_type": 15,
+        "codename": "delete_torneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+        "name": "Can view torneo",
+        "content_type": 15,
+        "codename": "view_torneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+        "name": "Can add perfil",
+        "content_type": 16,
+        "codename": "add_perfil"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+        "name": "Can change perfil",
+        "content_type": 16,
+        "codename": "change_perfil"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+        "name": "Can delete perfil",
+        "content_type": 16,
+        "codename": "delete_perfil"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+        "name": "Can view perfil",
+        "content_type": 16,
+        "codename": "view_perfil"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$ELigQSnaFlKF9DeRD4CsF1$q5eDC5bbk/v/te/5ilMCu/4IQ51vYsDXc9edHp0sW1s=",
+        "last_login": "2025-10-24T10:59:42.002",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2025-10-24T10:56:33.814",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "equipo"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "juego"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "patrocinador"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "usuario"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "contrato"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "jugador"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "estadisticajugador"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "participacion"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "torneo"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "perfil"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "a5fha0lib4ucp5kjvd8yakaxpf35yt4a",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGll2IKxNSZ8zWG93bRxAiZRPhbg7REoB7ZuZ9zIJ61LTOucp9WouxpvD78aQRx42oHcMt9HKOCxTz3ZT7E5n242an9fd_TuomOu3bsnHo3AroTmhQSBCKIwYi7SAI2bHHohahMkJfMGZvKo69ZRDNu8PACk5Qg:1vCDeA:fYYrQrA9TDlwU8JRGFNNP3cWe6q254sNNJiBwtUioHw",
+        "expire_date": "2025-11-07T10:59:42.005"
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 1,
+    "fields": {
+        "nombre": "Smile scene pull data charge interesting but.",
+        "email": "katherine75@example.com",
+        "fecha_registro": "1983-02-12",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 2,
+    "fields": {
+        "nombre": "Majority include according billion others. Describe industry rock.",
+        "email": "kweaver@example.org",
+        "fecha_registro": "2020-11-03",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 3,
+    "fields": {
+        "nombre": "Still PM fast food store agency. Adult local travel door idea various. Whole worry focus down talk.",
+        "email": "colonbryan@example.org",
+        "fecha_registro": "2019-01-18",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 4,
+    "fields": {
+        "nombre": "Community every approach mother water trip. Congress movement appear believe.",
+        "email": "jacob43@example.com",
+        "fecha_registro": "2009-02-17",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 5,
+    "fields": {
+        "nombre": "Interview follow issue day bit article these. Test last major instead matter artist name.",
+        "email": "ralph87@example.org",
+        "fecha_registro": "1970-11-23",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 6,
+    "fields": {
+        "nombre": "Let pull edge add. Social significant table business.",
+        "email": "dhenderson@example.com",
+        "fecha_registro": "2020-09-24",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 7,
+    "fields": {
+        "nombre": "Rather but performance hold away issue. Whole yeah field. Pay understand in structure from.",
+        "email": "keithrodriguez@example.com",
+        "fecha_registro": "2004-04-07",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 8,
+    "fields": {
+        "nombre": "Figure send others hot. Theory season table participant coach. Bill skin price.",
+        "email": "trevor83@example.com",
+        "fecha_registro": "1972-05-14",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 9,
+    "fields": {
+        "nombre": "Feel nation ever head. Popular third there yet. Medical more respond only fund across.",
+        "email": "fshaffer@example.net",
+        "fecha_registro": "1999-05-23",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 10,
+    "fields": {
+        "nombre": "Contain six process test send field both. Ask five more relationship. Everything treatment perhaps.",
+        "email": "sarawheeler@example.com",
+        "fecha_registro": "1978-03-17",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 11,
+    "fields": {
+        "nombre": "Section pass dream happy matter catch raise list. Stock specific one it great.",
+        "email": "mark82@example.org",
+        "fecha_registro": "2021-02-06",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 12,
+    "fields": {
+        "nombre": "Card card bed view example. Evidence huge require inside.",
+        "email": "david35@example.net",
+        "fecha_registro": "2020-10-05",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 13,
+    "fields": {
+        "nombre": "Down pull issue give mean action whom.\nPlant machine get now shoulder bar.",
+        "email": "maxwellmelinda@example.org",
+        "fecha_registro": "2016-01-22",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 14,
+    "fields": {
+        "nombre": "May decade attack police treat identify strong. Evidence oil debate stock should.",
+        "email": "petersenmichael@example.com",
+        "fecha_registro": "2012-11-01",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 15,
+    "fields": {
+        "nombre": "Difference black practice need experience near. Actually company think suddenly receive.",
+        "email": "patrick72@example.net",
+        "fecha_registro": "2008-08-16",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 16,
+    "fields": {
+        "nombre": "Add both only able.",
+        "email": "toddramirez@example.com",
+        "fecha_registro": "1989-05-28",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 17,
+    "fields": {
+        "nombre": "Must according drive five board. Guy who beyond history mouth itself wrong carry.",
+        "email": "lnovak@example.org",
+        "fecha_registro": "1995-02-13",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 18,
+    "fields": {
+        "nombre": "Student consumer three explain focus. Ago hit adult service.",
+        "email": "justin24@example.net",
+        "fecha_registro": "1973-09-10",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 19,
+    "fields": {
+        "nombre": "Several TV they person anyone toward ago such.",
+        "email": "utaylor@example.org",
+        "fecha_registro": "1994-03-06",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 20,
+    "fields": {
+        "nombre": "Glass like something air. Daughter even material newspaper. Senior floor story end budget.",
+        "email": "pamelacruz@example.net",
+        "fecha_registro": "1983-09-24",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 21,
+    "fields": {
+        "nombre": "Draw product financial section write. So idea find time recognize.",
+        "email": "natalie68@example.net",
+        "fecha_registro": "2008-10-18",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 22,
+    "fields": {
+        "nombre": "Save product same lot see if. Cold check receive college agreement very since.",
+        "email": "bruceperkins@example.net",
+        "fecha_registro": "1998-01-02",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 23,
+    "fields": {
+        "nombre": "Member sport training seek. Attack include arrive month staff.",
+        "email": "sharigonzales@example.net",
+        "fecha_registro": "2000-07-11",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 24,
+    "fields": {
+        "nombre": "Pretty or own two forward pass green. Fire play source. Age seem true reflect.",
+        "email": "david10@example.com",
+        "fecha_registro": "1978-11-21",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 25,
+    "fields": {
+        "nombre": "Investment leader responsibility thank. Perform board tax year six.",
+        "email": "gloria15@example.org",
+        "fecha_registro": "1980-10-25",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 26,
+    "fields": {
+        "nombre": "Including pay fund room. Development order recent degree.",
+        "email": "macdonaldbonnie@example.org",
+        "fecha_registro": "1996-04-19",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 27,
+    "fields": {
+        "nombre": "Score herself us sign. Read blue field Congress arrive. Exist season be lead draw nor easy.",
+        "email": "rebeccarodriguez@example.com",
+        "fecha_registro": "2006-04-21",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 28,
+    "fields": {
+        "nombre": "Power number and because behind recognize benefit claim. Care capital his.",
+        "email": "sarah89@example.org",
+        "fecha_registro": "1985-12-13",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 29,
+    "fields": {
+        "nombre": "Leader suffer try American reality community. Poor industry concern agree little population.",
+        "email": "williamsmith@example.org",
+        "fecha_registro": "1997-06-02",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 30,
+    "fields": {
+        "nombre": "Film game magazine recognize dinner us. Us set through foreign.",
+        "email": "xtravis@example.com",
+        "fecha_registro": "1970-03-03",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 31,
+    "fields": {
+        "nombre": "Vote happy this task employee tend resource production. Manager Mr student nation television talk.",
+        "email": "sean85@example.org",
+        "fecha_registro": "2008-04-03",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 32,
+    "fields": {
+        "nombre": "Herself war general place style form just describe. Trial staff reality economic.",
+        "email": "brewerkristen@example.org",
+        "fecha_registro": "2019-09-03",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 33,
+    "fields": {
+        "nombre": "Pick standard source free product face design prepare. Produce spend approach field significant.",
+        "email": "veronica07@example.com",
+        "fecha_registro": "1974-08-13",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 34,
+    "fields": {
+        "nombre": "Key design environmental similar part. Available several parent truth Republican there.",
+        "email": "baileymartin@example.com",
+        "fecha_registro": "2014-04-22",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 35,
+    "fields": {
+        "nombre": "Half type certain. Letter discuss as training.",
+        "email": "ryanjacob@example.com",
+        "fecha_registro": "1982-11-06",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 36,
+    "fields": {
+        "nombre": "Practice late say just. End night order others.",
+        "email": "usanchez@example.net",
+        "fecha_registro": "2021-04-17",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 37,
+    "fields": {
+        "nombre": "Man thought summer. Enjoy successful light explain discussion face.",
+        "email": "olsonamber@example.net",
+        "fecha_registro": "1992-05-26",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 38,
+    "fields": {
+        "nombre": "Question project gun what. Toward anything use character thus along.",
+        "email": "patricia14@example.net",
+        "fecha_registro": "2023-07-24",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 39,
+    "fields": {
+        "nombre": "Ago bed human my case story think. Once forward yeah people light.",
+        "email": "timothyortega@example.net",
+        "fecha_registro": "2017-09-18",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 40,
+    "fields": {
+        "nombre": "Our during current half. Then teacher nature charge focus response.",
+        "email": "ethanblackburn@example.org",
+        "fecha_registro": "2010-01-19",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 41,
+    "fields": {
+        "nombre": "Very million health four country. Worker social impact fact base. Can still eat same law among.",
+        "email": "matthewsmith@example.net",
+        "fecha_registro": "2017-05-14",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 42,
+    "fields": {
+        "nombre": "Hard plant themselves mission. Really leave school similar policy history.",
+        "email": "nicholaserickson@example.com",
+        "fecha_registro": "1975-12-18",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 43,
+    "fields": {
+        "nombre": "Shake hit floor. Who rule if share leave nation line.",
+        "email": "davidbyrd@example.org",
+        "fecha_registro": "2021-04-07",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 44,
+    "fields": {
+        "nombre": "Its until floor little man size. Way research crime even party example. Source staff onto short.",
+        "email": "ccraig@example.net",
+        "fecha_registro": "1995-08-09",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 45,
+    "fields": {
+        "nombre": "Process near should record action also ball bar. Important certain about PM though possible.",
+        "email": "jenna89@example.net",
+        "fecha_registro": "1977-12-08",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 46,
+    "fields": {
+        "nombre": "Production key new them suffer everybody will.\nLaugh join fall. Line middle bring worker.",
+        "email": "hicksmallory@example.org",
+        "fecha_registro": "2016-05-01",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 47,
+    "fields": {
+        "nombre": "For dark respond others what news mean. Garden range century discover share.",
+        "email": "pamelapetty@example.net",
+        "fecha_registro": "1978-11-24",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 48,
+    "fields": {
+        "nombre": "Next national describe key. Again wall region lawyer small if into. Better whose possible still.",
+        "email": "alicia10@example.org",
+        "fecha_registro": "1986-08-20",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 49,
+    "fields": {
+        "nombre": "Down teach culture explain. Term adult former treatment deal professor. Itself plant stay.",
+        "email": "heatherboyle@example.org",
+        "fecha_registro": "1978-01-29",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.usuario",
+    "pk": 50,
+    "fields": {
+        "nombre": "Hear avoid you summer share country.\nShould young condition talk. Itself improve century away.",
+        "email": "jacobsrichard@example.com",
+        "fecha_registro": "1999-07-11",
+        "activo": true
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 1,
+    "fields": {
+        "usuario": 40,
+        "biografia": "Than star prepare account decide experience. Factor candidate use American. Force former moment.\nSave enough surface property do. Win city score pick enjoy go.",
+        "pais": "Social father pick concern weight.",
+        "fecha_nacimiento": "1986-07-20",
+        "avatar": "series.flac"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 2,
+    "fields": {
+        "usuario": 33,
+        "biografia": "Stop experience fish language pass. Since pay really those wonder lose. Interview knowledge easy meet course conference whether when.",
+        "pais": "Mouth away put image his discover writer.",
+        "fecha_nacimiento": "1987-12-17",
+        "avatar": "note.html"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 3,
+    "fields": {
+        "usuario": 34,
+        "biografia": "Yes clear according decision recognize fear think he. Growth economic skin capital fear window employee. Subject ahead general nation our do. Less which woman theory include never.",
+        "pais": "Read arm stay project read future during.",
+        "fecha_nacimiento": "1984-01-25",
+        "avatar": "culture.wav"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 4,
+    "fields": {
+        "usuario": 32,
+        "biografia": "Very certain effort enjoy today man. Little book administration stop.\nExample point after whole carry third management. Leader building question once political middle office health.",
+        "pais": "Finish off rise bit.",
+        "fecha_nacimiento": "2003-03-21",
+        "avatar": "long.tiff"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 5,
+    "fields": {
+        "usuario": 39,
+        "biografia": "Follow firm run wonder already wrong development own.\nWar hundred necessary water. Republican human trip everyone TV the.\nRespond religious degree include. Policy him challenge key.",
+        "pais": "Everybody body choose world.",
+        "fecha_nacimiento": "1977-02-18",
+        "avatar": "source.mp4"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 6,
+    "fields": {
+        "usuario": 37,
+        "biografia": "Music police fall authority site help they. Out its indeed one.\nSimilar direction adult I stock production the. Clearly growth ten right difference fall public. Pick while bring matter spring.",
+        "pais": "Line rest late north.",
+        "fecha_nacimiento": "1981-02-27",
+        "avatar": "wide.js"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 7,
+    "fields": {
+        "usuario": 38,
+        "biografia": "South special cup hard memory. Daughter later country doctor. Trouble night east PM but partner party.",
+        "pais": "Fall step generation wish already pass reality.",
+        "fecha_nacimiento": "2007-06-14",
+        "avatar": "fight.jpg"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 8,
+    "fields": {
+        "usuario": 36,
+        "biografia": "Man adult impact. Black memory glass season east.\nWriter soon major knowledge lead management.",
+        "pais": "Various staff bar commercial.",
+        "fecha_nacimiento": "1990-05-18",
+        "avatar": "difference.jpg"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 9,
+    "fields": {
+        "usuario": 31,
+        "biografia": "Four necessary we course college. Can oil challenge. Style method admit.",
+        "pais": "Tax both many far drive leave than he.",
+        "fecha_nacimiento": "1996-11-04",
+        "avatar": "economic.html"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 10,
+    "fields": {
+        "usuario": 35,
+        "biografia": "Poor southern country follow major lose. Direction maybe fall billion give how catch address. Myself discover sometimes generation.",
+        "pais": "Idea many business point.",
+        "fecha_nacimiento": "2025-02-07",
+        "avatar": "debate.wav"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 11,
+    "fields": {
+        "usuario": 50,
+        "biografia": "Direction level difference imagine season.\nInteresting in economy course red take. Since American degree these medical debate traditional just.",
+        "pais": "Economic authority part tough future wife.",
+        "fecha_nacimiento": "2010-01-20",
+        "avatar": "assume.json"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 12,
+    "fields": {
+        "usuario": 46,
+        "biografia": "Parent decade attack drive pattern. Activity situation matter president common officer. Next sport miss less. Want might hear bag gun course.",
+        "pais": "Able prepare record seek thought.",
+        "fecha_nacimiento": "2015-04-06",
+        "avatar": "call.tiff"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 13,
+    "fields": {
+        "usuario": 47,
+        "biografia": "Note space standard million TV at. Which consumer dark animal power.\nRecognize follow particular meet suffer everything letter. Thought affect east scene media light. Model challenge among film.",
+        "pais": "For through concern bad glass.",
+        "fecha_nacimiento": "1988-04-27",
+        "avatar": "point.bmp"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 14,
+    "fields": {
+        "usuario": 44,
+        "biografia": "Middle within night various state suggest those throughout. Morning pull such total. Push challenge exactly describe. Analysis mean rise two necessary speech.\nCertainly entire kitchen significant.",
+        "pais": "Support rule can at increase possible.",
+        "fecha_nacimiento": "2023-07-31",
+        "avatar": "president.css"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 15,
+    "fields": {
+        "usuario": 43,
+        "biografia": "Blood rule whether many main billion last. Former agree road think whatever imagine fine. Test too reason through building.",
+        "pais": "Mrs country later blue out.",
+        "fecha_nacimiento": "2009-08-31",
+        "avatar": "way.csv"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 16,
+    "fields": {
+        "usuario": 49,
+        "biografia": "Open center rich face. Population thought health line turn. City blue speak military window resource so.",
+        "pais": "System wall present realize face.",
+        "fecha_nacimiento": "2021-12-06",
+        "avatar": "environment.mp3"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 17,
+    "fields": {
+        "usuario": 48,
+        "biografia": "Everything forward hear when man it.\nRisk work condition prepare. Foot generation carry his who economy stand purpose.",
+        "pais": "Modern treatment manager.",
+        "fecha_nacimiento": "2021-06-25",
+        "avatar": "couple.jpg"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 18,
+    "fields": {
+        "usuario": 42,
+        "biografia": "Or wind five tonight ok. Them wish late heart. Time detail section include could relate decision.",
+        "pais": "Yet social our ground back pay.",
+        "fecha_nacimiento": "2013-05-07",
+        "avatar": "prepare.png"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 19,
+    "fields": {
+        "usuario": 41,
+        "biografia": "Second watch case full too by. Them anyone picture ground.",
+        "pais": "Tax this state rest.",
+        "fecha_nacimiento": "2014-11-27",
+        "avatar": "wind.html"
+    }
+},
+{
+    "model": "Gestor_Esports.perfil",
+    "pk": 20,
+    "fields": {
+        "usuario": 45,
+        "biografia": "Pattern try car deep less TV. Hope democratic thank modern. Table dream southern area author perform.",
+        "pais": "In fight marriage phone.",
+        "fecha_nacimiento": "1970-08-11",
+        "avatar": "would.tiff"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 1,
+    "fields": {
+        "nombre": "Third only look reveal budget from analysis. Seat enter spend final.",
+        "fecha_creacion": "1989-09-04",
+        "pais": "Worker scene mouth beyond.",
+        "presupuesto": "0.61"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 2,
+    "fields": {
+        "nombre": "Environment establish short summer look. Today enter training president shake truth common.",
+        "fecha_creacion": "1973-05-01",
+        "pais": "One a institution child should.",
+        "presupuesto": "0.63"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 3,
+    "fields": {
+        "nombre": "Knowledge beautiful care research exist feeling. Continue alone less quickly thousand.",
+        "fecha_creacion": "1999-09-25",
+        "pais": "Minute everybody style behind enough specific.",
+        "presupuesto": "0.27"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 4,
+    "fields": {
+        "nombre": "Because reach dinner top nothing ago simple. Address expect military four.",
+        "fecha_creacion": "2002-12-05",
+        "pais": "Thus matter view list.",
+        "presupuesto": "0.67"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 5,
+    "fields": {
+        "nombre": "Race large enjoy occur push main. Call mother different production often thank indeed.",
+        "fecha_creacion": "2008-09-21",
+        "pais": "Down these now arrive he receive.",
+        "presupuesto": "0.47"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 6,
+    "fields": {
+        "nombre": "Prepare player who them author.",
+        "fecha_creacion": "2003-10-20",
+        "pais": "Member education push send.",
+        "presupuesto": "0.53"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 7,
+    "fields": {
+        "nombre": "Age service item. Democrat within late throw whole letter others officer.",
+        "fecha_creacion": "2006-05-18",
+        "pais": "Those catch value discuss social later despite.",
+        "presupuesto": "0.49"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 8,
+    "fields": {
+        "nombre": "Change sound to his score small section. Take author very never catch economy her.",
+        "fecha_creacion": "2009-01-06",
+        "pais": "Summer Mr wife something main concern short.",
+        "presupuesto": "0.41"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 9,
+    "fields": {
+        "nombre": "Similar pressure within have reason. Only do name always such participant artist.",
+        "fecha_creacion": "1989-02-07",
+        "pais": "Use past trip table.",
+        "presupuesto": "0.82"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 10,
+    "fields": {
+        "nombre": "Significant second attack single. Section quality both. Difficult space a study kid law gun much.",
+        "fecha_creacion": "2010-05-13",
+        "pais": "Why road shoulder data clearly.",
+        "presupuesto": "0.18"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 11,
+    "fields": {
+        "nombre": "Improve try already exist employee.",
+        "fecha_creacion": "2025-10-24",
+        "pais": "Way not meeting. Direction simply remain dinner.",
+        "presupuesto": "10000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 12,
+    "fields": {
+        "nombre": "Reason important well life. Fill ten able ok everything. Customer serve follow.",
+        "fecha_creacion": "2025-10-24",
+        "pais": "Defense goal surface.",
+        "presupuesto": "10000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 13,
+    "fields": {
+        "nombre": "Action loss manager suffer floor kitchen guess baby. Operation find control play every beat air.",
+        "fecha_creacion": "2025-10-24",
+        "pais": "Whole professional able much suddenly.",
+        "presupuesto": "10000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 14,
+    "fields": {
+        "nombre": "Performance today individual. Heavy sister sense doctor.",
+        "fecha_creacion": "2025-10-24",
+        "pais": "Seek reveal page.",
+        "presupuesto": "10000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 15,
+    "fields": {
+        "nombre": "Pay instead point job how bit. Difficult brother soldier option firm.",
+        "fecha_creacion": "2025-10-24",
+        "pais": "Machine south answer Congress edge media tree.",
+        "presupuesto": "10000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 16,
+    "fields": {
+        "nombre": "Black game might culture bit. Strategy call some night story you media.",
+        "fecha_creacion": "2025-10-24",
+        "pais": "Physical vote throw at young.",
+        "presupuesto": "10000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 17,
+    "fields": {
+        "nombre": "Much wall full news less key anyone month. Man then wall debate center blue show teacher.",
+        "fecha_creacion": "2025-10-24",
+        "pais": "Son analysis add whatever opportunity the me.",
+        "presupuesto": "10000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 18,
+    "fields": {
+        "nombre": "Direction significant less report her serious resource can. Thing knowledge strong oil ok.",
+        "fecha_creacion": "2025-10-24",
+        "pais": "Way wait water name defense five.",
+        "presupuesto": "10000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 19,
+    "fields": {
+        "nombre": "Particular final laugh reveal treat ever medical. Room everybody central send seem myself third.",
+        "fecha_creacion": "2025-10-24",
+        "pais": "These every federal purpose.",
+        "presupuesto": "10000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 20,
+    "fields": {
+        "nombre": "Keep class able wife article so drop. Not soldier care begin.",
+        "fecha_creacion": "2025-10-24",
+        "pais": "Big similar address against window.",
+        "presupuesto": "10000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 1,
+    "fields": {
+        "usuario": 32,
+        "equipo": 10,
+        "nickname": "melinda55",
+        "rol": "Visit poor tax great play agent matter.",
+        "nacionalidad": "Add phone imagine look economic.",
+        "juegos": [
+            35
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 2,
+    "fields": {
+        "usuario": 33,
+        "equipo": 6,
+        "nickname": "thomasaguilar",
+        "rol": "Magazine message store just seem simply.",
+        "nacionalidad": "Budget allow physical law.",
+        "juegos": [
+            31
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 3,
+    "fields": {
+        "usuario": 31,
+        "equipo": 6,
+        "nickname": "vargasroger",
+        "rol": "Eight political change why thing now child fill.",
+        "nacionalidad": "Personal whether machine size fight.",
+        "juegos": [
+            31,
+            32,
+            39
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 4,
+    "fields": {
+        "usuario": 40,
+        "equipo": 8,
+        "nickname": "ericgreen",
+        "rol": "Author administration if far. Team away Mr.",
+        "nacionalidad": "Film will radio station value.",
+        "juegos": [
+            31
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 5,
+    "fields": {
+        "usuario": 37,
+        "equipo": 5,
+        "nickname": "kmorgan",
+        "rol": "Stand ever girl eye. Present magazine onto use.",
+        "nacionalidad": "Page enough successful fill term out.",
+        "juegos": [
+            37
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 6,
+    "fields": {
+        "usuario": 39,
+        "equipo": 9,
+        "nickname": "lewisanthony",
+        "rol": "Source across oil medical sister.",
+        "nacionalidad": "Never more performance.",
+        "juegos": [
+            32
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 7,
+    "fields": {
+        "usuario": 34,
+        "equipo": 8,
+        "nickname": "thomaspowers",
+        "rol": "Six better baby entire.",
+        "nacionalidad": "Evidence sign side matter mission toward.",
+        "juegos": [
+            33,
+            35,
+            36
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 8,
+    "fields": {
+        "usuario": 38,
+        "equipo": 2,
+        "nickname": "youngallison",
+        "rol": "Key family at. Industry eat available too image.",
+        "nacionalidad": "Purpose nice information never evening.",
+        "juegos": [
+            32,
+            35,
+            36
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 9,
+    "fields": {
+        "usuario": 35,
+        "equipo": 1,
+        "nickname": "ronald12",
+        "rol": "Real hundred hundred word or debate security.",
+        "nacionalidad": "Unit answer both. Wall recently only leader.",
+        "juegos": [
+            31,
+            34
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 10,
+    "fields": {
+        "usuario": 36,
+        "equipo": 7,
+        "nickname": "dean14",
+        "rol": "Different next hold report.",
+        "nacionalidad": "Feel computer consumer.",
+        "juegos": [
+            31
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 11,
+    "fields": {
+        "usuario": 46,
+        "equipo": 14,
+        "nickname": "michaelreynolds",
+        "rol": "Arm mother green across show civil discuss.",
+        "nacionalidad": "Other reveal control read picture fire.",
+        "juegos": [
+            41,
+            47,
+            50
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 12,
+    "fields": {
+        "usuario": 47,
+        "equipo": 12,
+        "nickname": "tjenkins",
+        "rol": "Girl daughter truth partner night.",
+        "nacionalidad": "Tell child than during politics.",
+        "juegos": [
+            41,
+            46,
+            47
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 13,
+    "fields": {
+        "usuario": 42,
+        "equipo": 16,
+        "nickname": "bryanduffy",
+        "rol": "Mean analysis easy.",
+        "nacionalidad": "Suffer professor long.",
+        "juegos": [
+            42,
+            45
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 14,
+    "fields": {
+        "usuario": 45,
+        "equipo": 16,
+        "nickname": "peggy77",
+        "rol": "Once what try international coach.",
+        "nacionalidad": "Play much happy more.",
+        "juegos": [
+            45
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 15,
+    "fields": {
+        "usuario": 43,
+        "equipo": 12,
+        "nickname": "erikashea",
+        "rol": "Five effect particular stock.",
+        "nacionalidad": "Financial only his other summer another pull.",
+        "juegos": [
+            46,
+            49
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 16,
+    "fields": {
+        "usuario": 48,
+        "equipo": 12,
+        "nickname": "iparker",
+        "rol": "Real inside about bed adult deal.",
+        "nacionalidad": "Include teach poor.",
+        "juegos": [
+            46,
+            47
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 17,
+    "fields": {
+        "usuario": 41,
+        "equipo": 19,
+        "nickname": "leedanny",
+        "rol": "Design line set.",
+        "nacionalidad": "Agreement force brother why care culture may.",
+        "juegos": [
+            44
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 18,
+    "fields": {
+        "usuario": 50,
+        "equipo": 16,
+        "nickname": "sullivanjason",
+        "rol": "And participant find huge debate bit.",
+        "nacionalidad": "Our compare gun risk week kitchen sit sort.",
+        "juegos": [
+            46
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 19,
+    "fields": {
+        "usuario": 49,
+        "equipo": 20,
+        "nickname": "ychen",
+        "rol": "Task side PM involve value. Game none all nice.",
+        "nacionalidad": "Democrat land despite event continue police.",
+        "juegos": [
+            43,
+            45,
+            49
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 20,
+    "fields": {
+        "usuario": 44,
+        "equipo": 11,
+        "nickname": "gbond",
+        "rol": "Ahead lose example such into imagine all always.",
+        "nacionalidad": "Another rise these sing than scene new.",
+        "juegos": [
+            47
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 1,
+    "fields": {
+        "nombre": "Laugh court program usually. But follow stop wide within deal image.",
+        "genero": "Part big child bed seem human pay despite.",
+        "desarrolladora": "Similar develop record can relationship. Class the couple piece thus car national.",
+        "fecha_lanzamiento": "2007-07-18"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 2,
+    "fields": {
+        "nombre": "Sport professional politics team main take news. Case sea ten perhaps chance when instead.",
+        "genero": "Civil western series special customer.",
+        "desarrolladora": "Always ability fast poor. Program candidate note thank here. Attorney tell its born.",
+        "fecha_lanzamiento": "2009-02-11"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 3,
+    "fields": {
+        "nombre": "This finish whatever a great.",
+        "genero": "When late enough weight relationship.",
+        "desarrolladora": "Wide seat product bank money laugh lead common. Quite beyond service product.",
+        "fecha_lanzamiento": "1990-11-18"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 4,
+    "fields": {
+        "nombre": "Surface strategy name their. Go morning while matter. Less how month require such.",
+        "genero": "Light window on dream than throw hotel.",
+        "desarrolladora": "Item take concern item community who. Film where happen training half anything to.",
+        "fecha_lanzamiento": "2014-08-07"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 5,
+    "fields": {
+        "nombre": "Trouble need left compare newspaper society. Civil as individual easy turn coach city.",
+        "genero": "Lead include word guess Mrs.",
+        "desarrolladora": "Floor herself modern world with several describe. Tough total need necessary.",
+        "fecha_lanzamiento": "2014-02-16"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 6,
+    "fields": {
+        "nombre": "Nation talk lead reflect easy be. Force property coach hour behavior.",
+        "genero": "Low space push heavy.",
+        "desarrolladora": "Former necessary article education tell site. Wonder help player learn as else.",
+        "fecha_lanzamiento": "2012-04-05"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 7,
+    "fields": {
+        "nombre": "Huge cut lead real rule everybody security vote. Ability bar wrong thus station any protect speech.",
+        "genero": "All safe team individual.",
+        "desarrolladora": "Mind bad agent. Be enjoy for newspaper rise.",
+        "fecha_lanzamiento": "1975-05-02"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 8,
+    "fields": {
+        "nombre": "Popular small himself shoulder. Quickly institution national feel wrong these not.",
+        "genero": "Shoulder site forget small.",
+        "desarrolladora": "Soldier defense education send ok. Left teach somebody enough agree religious spend.",
+        "fecha_lanzamiento": "2017-11-29"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 9,
+    "fields": {
+        "nombre": "Husband whom condition add natural increase. Skill film watch.",
+        "genero": "Much me job environmental feel building.",
+        "desarrolladora": "Leader out agent century term church. Idea low thousand food.",
+        "fecha_lanzamiento": "2009-07-01"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 10,
+    "fields": {
+        "nombre": "Offer anything big low. Book those than ready necessary PM next.",
+        "genero": "Century father dog size major movement start.",
+        "desarrolladora": "Training gun strategy world. East up detail positive similar. Remember develop conference choice.",
+        "fecha_lanzamiento": "1989-07-30"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 11,
+    "fields": {
+        "nombre": "Garden heavy address. Believe stage adult nothing.",
+        "genero": "Man question usually decision bank follow.",
+        "desarrolladora": "Just practice when him forward. Street anyone small use green under.",
+        "fecha_lanzamiento": "2019-01-20"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 12,
+    "fields": {
+        "nombre": "Check trade family. So ability car feel television.\nProduce space ability class small why.",
+        "genero": "Put bag increase military instead project.",
+        "desarrolladora": "Quite eat here political wall. Marriage ball property.",
+        "fecha_lanzamiento": "1978-07-30"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 13,
+    "fields": {
+        "nombre": "Office discussion let kind. Guess type late will threat order.",
+        "genero": "Enter character wear big consider foot.",
+        "desarrolladora": "Mention important from agreement fill. Trade property talk. Move call particular cell.",
+        "fecha_lanzamiento": "1992-10-14"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 14,
+    "fields": {
+        "nombre": "Mention address what prove unit.\nHappen mean once teacher up. To image series military.",
+        "genero": "Difficult some step baby save mind.",
+        "desarrolladora": "Budget want notice page near production answer.",
+        "fecha_lanzamiento": "1998-07-05"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 15,
+    "fields": {
+        "nombre": "Report deep radio official body. Risk us line very oil me. Chance who high five magazine.",
+        "genero": "Require end voice say teach lot.",
+        "desarrolladora": "Heavy respond baby paper friend.\nExecutive board Mr early. The develop their admit.",
+        "fecha_lanzamiento": "2003-01-26"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 16,
+    "fields": {
+        "nombre": "Others hair yeah those energy tend well focus. Black public character less key experience one.",
+        "genero": "Ask region series understand million employee.",
+        "desarrolladora": "Help operation state listen. Population total many fast even decide line great.",
+        "fecha_lanzamiento": "1999-10-03"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 17,
+    "fields": {
+        "nombre": "Statement college firm modern. Put whatever management former stuff.",
+        "genero": "Responsibility these process conference police.",
+        "desarrolladora": "Federal sometimes rather institution must.",
+        "fecha_lanzamiento": "1990-04-12"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 18,
+    "fields": {
+        "nombre": "Thus edge bit. Avoid best behind maybe sure.",
+        "genero": "Political on rich report style provide.",
+        "desarrolladora": "Message glass few boy relate. Ago data look. Imagine play plant state in service believe.",
+        "fecha_lanzamiento": "1970-04-13"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 19,
+    "fields": {
+        "nombre": "Learn region ago compare teach next personal. Land choice on sound at.",
+        "genero": "Citizen up music.",
+        "desarrolladora": "Certainly own itself then. If stage black Congress stuff detail along around.",
+        "fecha_lanzamiento": "2019-01-01"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 20,
+    "fields": {
+        "nombre": "Learn response while sort. Wife property practice fight senior including offer.",
+        "genero": "Follow stuff himself real close alone.",
+        "desarrolladora": "Life represent black. Machine like tend late.",
+        "fecha_lanzamiento": "1986-09-03"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 21,
+    "fields": {
+        "nombre": "Oil describe west fund structure describe. Goal to movie wonder though idea baby issue.",
+        "genero": "End page girl draw source information system.",
+        "desarrolladora": "Peace risk drug bar item than forward must. From low somebody American more season might.",
+        "fecha_lanzamiento": "2014-12-23"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 22,
+    "fields": {
+        "nombre": "Person again million next. Ahead including likely peace car deal.",
+        "genero": "Recently why general six use.",
+        "desarrolladora": "Majority set worry former commercial notice democratic. Trial situation health stop.",
+        "fecha_lanzamiento": "2024-12-05"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 23,
+    "fields": {
+        "nombre": "Note fear wall trip professor.",
+        "genero": "Evidence teach different call fight cold that.",
+        "desarrolladora": "Force stuff economic now condition building.",
+        "fecha_lanzamiento": "2011-01-29"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 24,
+    "fields": {
+        "nombre": "Worry response health loss reduce quite. Late deep consumer human.",
+        "genero": "Final when human response type investment main.",
+        "desarrolladora": "Test public somebody almost. Tree watch single step walk more.",
+        "fecha_lanzamiento": "1976-11-08"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 25,
+    "fields": {
+        "nombre": "Common early mouth decade start growth. Speak floor specific catch.",
+        "genero": "At catch shake add something assume center nor.",
+        "desarrolladora": "General yes group statement get voice same. People soon guess first.",
+        "fecha_lanzamiento": "1990-04-17"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 26,
+    "fields": {
+        "nombre": "Some history road into. Reason small attack do personal.",
+        "genero": "Lot language gun fund law wrong.",
+        "desarrolladora": "Financial black around. Father song pick. Yeah beyond trade industry listen customer.",
+        "fecha_lanzamiento": "1974-03-31"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 27,
+    "fields": {
+        "nombre": "Section tonight box son. Meeting exist people eye region research trip seat.",
+        "genero": "Treat culture radio range wind success.",
+        "desarrolladora": "Save task resource less game career another. True add meeting manager.",
+        "fecha_lanzamiento": "1983-04-26"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 28,
+    "fields": {
+        "nombre": "Happen guy cold easy. Word who get office.",
+        "genero": "Color movie write fish half example.",
+        "desarrolladora": "Hair official want our. Detail its factor draw interest customer.",
+        "fecha_lanzamiento": "1987-11-17"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 29,
+    "fields": {
+        "nombre": "Address one high include. There entire language quickly.",
+        "genero": "Employee boy surface order best.",
+        "desarrolladora": "Over head identify sure bank long whether. Administration PM return choice push why.",
+        "fecha_lanzamiento": "1973-10-26"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 30,
+    "fields": {
+        "nombre": "Wrong money often your team message establish. White raise concern account enter single.",
+        "genero": "Produce local color others before positive.",
+        "desarrolladora": "There sign his rise.\nModel father worry realize weight. Manage song heart man.",
+        "fecha_lanzamiento": "2006-04-30"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 31,
+    "fields": {
+        "nombre": "Positive rate again let. National stage record final. Base spend evening find within above reveal.",
+        "genero": "Clearly per age eat stop.",
+        "desarrolladora": "Represent camera four approach nation like everything. Hot interest sure bad task hair.",
+        "fecha_lanzamiento": "1976-04-29"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 32,
+    "fields": {
+        "nombre": "Can gas add five. Whatever officer avoid as.",
+        "genero": "Recently page trip appear much dog.",
+        "desarrolladora": "More reduce tough argue.",
+        "fecha_lanzamiento": "2007-10-26"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 33,
+    "fields": {
+        "nombre": "Visit worry factor ok. Guy recognize meet must tax describe laugh.",
+        "genero": "Act among itself Republican.",
+        "desarrolladora": "Just police yourself. Customer human happen yard film.\nReveal glass election reduce whole left.",
+        "fecha_lanzamiento": "2005-04-25"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 34,
+    "fields": {
+        "nombre": "Red mind care customer big perhaps. Quite believe significant help usually million such raise.",
+        "genero": "Front note lay collection citizen response let.",
+        "desarrolladora": "Pull section morning. Billion point half scene finish school.",
+        "fecha_lanzamiento": "1996-08-08"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 35,
+    "fields": {
+        "nombre": "Consider near send finish sister.",
+        "genero": "Money heavy magazine law woman eat.",
+        "desarrolladora": "Carry girl instead. Any play note door they. Purpose religious relate thousand from rather mother.",
+        "fecha_lanzamiento": "2007-07-13"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 36,
+    "fields": {
+        "nombre": "More term structure leave. Simply serve themselves fast shoulder.",
+        "genero": "Reach kind rate role. Than rule to.",
+        "desarrolladora": "Nor staff everything section. Big already there chance safe vote. Cost social particular cut this.",
+        "fecha_lanzamiento": "2002-12-14"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 37,
+    "fields": {
+        "nombre": "Easy tell win question learn. Beyond cell federal.",
+        "genero": "Couple bring trouble he management specific left.",
+        "desarrolladora": "Your enough significant key war onto. Movement include over either.",
+        "fecha_lanzamiento": "1990-03-01"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 38,
+    "fields": {
+        "nombre": "Represent group yard. Law method radio enjoy bit toward drop. Guess change word drug huge.",
+        "genero": "Economy wish brother resource few out off.",
+        "desarrolladora": "Education commercial car center reduce but dinner. With need art decade make.",
+        "fecha_lanzamiento": "1989-05-11"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 39,
+    "fields": {
+        "nombre": "West I institution age admit guy light. Would beautiful indeed admit news.",
+        "genero": "Practice leg population event.",
+        "desarrolladora": "Among network chance unit term. Box citizen blue course car speak edge.",
+        "fecha_lanzamiento": "1991-01-02"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 40,
+    "fields": {
+        "nombre": "Including fight method now same. Of science service news plan.",
+        "genero": "Wonder data detail attack tend recent no.",
+        "desarrolladora": "Manager individual cover. Production its bag he beautiful significant.",
+        "fecha_lanzamiento": "1979-02-11"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 41,
+    "fields": {
+        "nombre": "Great song management market source. There money special use.",
+        "genero": "Want station chance along indicate center.",
+        "desarrolladora": "Audience attorney official turn significant Democrat. Discover defense bad person.",
+        "fecha_lanzamiento": "2025-10-24"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 42,
+    "fields": {
+        "nombre": "Look unit hair word position parent while police.\nSuddenly begin follow cultural may box seem cost.",
+        "genero": "Listen many beautiful military meeting poor.",
+        "desarrolladora": "Increase unit radio himself middle. Author size use turn do.",
+        "fecha_lanzamiento": "2025-10-24"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 43,
+    "fields": {
+        "nombre": "Laugh people power challenge interview. Project middle east cover not rule.",
+        "genero": "Public work rise protect value its test.",
+        "desarrolladora": "Town example point most let human discussion. Read young social toward source.",
+        "fecha_lanzamiento": "2025-10-24"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 44,
+    "fields": {
+        "nombre": "Blood public city hospital before night. Fear art between. Town about but official special.",
+        "genero": "Travel ago friend ready of.",
+        "desarrolladora": "Agent fill shake stock. Sound nearly former last us painting either.",
+        "fecha_lanzamiento": "2025-10-24"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 45,
+    "fields": {
+        "nombre": "Window foot fire east animal teacher.\nPolitical him best understand ok resource recognize TV.",
+        "genero": "Task indicate about door.",
+        "desarrolladora": "Clear me share last.",
+        "fecha_lanzamiento": "2025-10-24"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 46,
+    "fields": {
+        "nombre": "Investment right industry matter bad institution. Debate dream space go gas.",
+        "genero": "Management life age friend identify article its.",
+        "desarrolladora": "Close science development home allow color friend. Various discuss room big which cultural many.",
+        "fecha_lanzamiento": "2025-10-24"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 47,
+    "fields": {
+        "nombre": "Daughter his development. Husband million hit accept word better shake.",
+        "genero": "Detail claim today house rather.",
+        "desarrolladora": "Available responsibility spend later father. Eight perhaps election thus up.",
+        "fecha_lanzamiento": "2025-10-24"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 48,
+    "fields": {
+        "nombre": "Near American voice.\nEnvironment politics participant successful. Action environmental teach black.",
+        "genero": "Face performance support team easy meet.",
+        "desarrolladora": "Third particularly language ability how. Side clear magazine rock treatment.",
+        "fecha_lanzamiento": "2025-10-24"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 49,
+    "fields": {
+        "nombre": "Most activity hold else debate. Ready dog majority player. Month state so health operation less.",
+        "genero": "Garden issue reason issue.",
+        "desarrolladora": "Better bar forget minute whether team. Toward blood what generation someone.",
+        "fecha_lanzamiento": "2025-10-24"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 50,
+    "fields": {
+        "nombre": "Central goal throw draw share card. Challenge administration themselves question child will.",
+        "genero": "Figure cup animal purpose fish for send increase.",
+        "desarrolladora": "Model sense account trade production. Here adult he big common.",
+        "fecha_lanzamiento": "2025-10-24"
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 1,
+    "fields": {
+        "nombre": "Way away fast character. Child expect to data. Can left area room it record door no.",
+        "juego": 42,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "premio_total": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 2,
+    "fields": {
+        "nombre": "Nearly relationship only million. Seven over manage early probably.",
+        "juego": 50,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "premio_total": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 3,
+    "fields": {
+        "nombre": "How least meeting cup better man network soon. Probably reason however need town.",
+        "juego": 43,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "premio_total": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 4,
+    "fields": {
+        "nombre": "Well send main especially. Expert ten concern hope lot.",
+        "juego": 42,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "premio_total": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 5,
+    "fields": {
+        "nombre": "Another camera suddenly. Bag score take college medical music lead.",
+        "juego": 46,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "premio_total": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 6,
+    "fields": {
+        "nombre": "Citizen smile local program lead seat. Son high table write radio including reason.",
+        "juego": 45,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "premio_total": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 7,
+    "fields": {
+        "nombre": "Between leave test fact result Mrs. Everybody medical tell western such.",
+        "juego": 41,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "premio_total": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 8,
+    "fields": {
+        "nombre": "Yard PM serious. Able theory free establish staff. Prevent short least commercial.",
+        "juego": 47,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "premio_total": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 9,
+    "fields": {
+        "nombre": "Feeling these say team. Election standard manage.",
+        "juego": 44,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "premio_total": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 10,
+    "fields": {
+        "nombre": "Certain student happen think care. Type suffer common buy material trial police.",
+        "juego": 42,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "premio_total": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 1,
+    "fields": {
+        "equipo": 20,
+        "torneo": 1,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 2,
+    "fields": {
+        "equipo": 20,
+        "torneo": 2,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 3,
+    "fields": {
+        "equipo": 16,
+        "torneo": 2,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 4,
+    "fields": {
+        "equipo": 19,
+        "torneo": 3,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 5,
+    "fields": {
+        "equipo": 13,
+        "torneo": 4,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 6,
+    "fields": {
+        "equipo": 17,
+        "torneo": 5,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 7,
+    "fields": {
+        "equipo": 14,
+        "torneo": 5,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 8,
+    "fields": {
+        "equipo": 11,
+        "torneo": 6,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 9,
+    "fields": {
+        "equipo": 13,
+        "torneo": 6,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 10,
+    "fields": {
+        "equipo": 20,
+        "torneo": 6,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 11,
+    "fields": {
+        "equipo": 13,
+        "torneo": 7,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 12,
+    "fields": {
+        "equipo": 12,
+        "torneo": 7,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 13,
+    "fields": {
+        "equipo": 11,
+        "torneo": 8,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 14,
+    "fields": {
+        "equipo": 15,
+        "torneo": 8,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 15,
+    "fields": {
+        "equipo": 18,
+        "torneo": 9,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 16,
+    "fields": {
+        "equipo": 14,
+        "torneo": 9,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 17,
+    "fields": {
+        "equipo": 18,
+        "torneo": 10,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 18,
+    "fields": {
+        "equipo": 19,
+        "torneo": 10,
+        "posicion_final": 0,
+        "puntos_obtenidos": 0
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 19,
+    "fields": {
+        "equipo": 11,
+        "torneo": 9,
+        "posicion_final": 3727,
+        "puntos_obtenidos": -20660
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 20,
+    "fields": {
+        "equipo": 20,
+        "torneo": 5,
+        "posicion_final": 29902,
+        "puntos_obtenidos": -82
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 21,
+    "fields": {
+        "equipo": 18,
+        "torneo": 4,
+        "posicion_final": 27108,
+        "puntos_obtenidos": 31547
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 22,
+    "fields": {
+        "equipo": 20,
+        "torneo": 9,
+        "posicion_final": 21537,
+        "puntos_obtenidos": 16138
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 23,
+    "fields": {
+        "equipo": 11,
+        "torneo": 2,
+        "posicion_final": 2918,
+        "puntos_obtenidos": -16644
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 24,
+    "fields": {
+        "equipo": 18,
+        "torneo": 7,
+        "posicion_final": 227,
+        "puntos_obtenidos": -5789
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 25,
+    "fields": {
+        "equipo": 18,
+        "torneo": 3,
+        "posicion_final": 26376,
+        "puntos_obtenidos": -4361
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 26,
+    "fields": {
+        "equipo": 19,
+        "torneo": 6,
+        "posicion_final": 9083,
+        "puntos_obtenidos": 5454
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 27,
+    "fields": {
+        "equipo": 16,
+        "torneo": 9,
+        "posicion_final": 7488,
+        "puntos_obtenidos": 2484
+    }
+},
+{
+    "model": "Gestor_Esports.participacion",
+    "pk": 28,
+    "fields": {
+        "equipo": 13,
+        "torneo": 8,
+        "posicion_final": 24029,
+        "puntos_obtenidos": 29846
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 1,
+    "fields": {
+        "nombre": "Will fire effect ok space. Arrive fact speak character.",
+        "industria": "Rest box ten. Religious Democrat gun seek back. Character radio call important us beat size.",
+        "pais": "Born drug woman word throw past expect.",
+        "presupuesto_anual": 0.6982232982386845
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 2,
+    "fields": {
+        "nombre": "Cup everybody thousand this.",
+        "industria": "Must cup health reveal. Imagine reason sometimes girl skill.",
+        "pais": "Issue before early eat lead become.",
+        "presupuesto_anual": 0.10472488853057926
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 3,
+    "fields": {
+        "nombre": "Writer success attack adult. Think example likely whole itself already finally specific.",
+        "industria": "Someone PM Republican do reach. Study career also one.\nSure process open. Reflect far best.",
+        "pais": "South cell spring reveal.",
+        "presupuesto_anual": 0.9806923503826782
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 4,
+    "fields": {
+        "nombre": "Third affect mean page.",
+        "industria": "Beat suffer tree some that together enjoy degree. Admit animal toward reason each.",
+        "pais": "Draw billion any.",
+        "presupuesto_anual": 0.7111262538183196
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 5,
+    "fields": {
+        "nombre": "Yeah career culture fight apply number enough. Only else material out south close.",
+        "industria": "Ask need measure current himself natural relationship. Their article popular growth wish.",
+        "pais": "Movement sea experience environment street walk.",
+        "presupuesto_anual": 0.5431880014522401
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 6,
+    "fields": {
+        "nombre": "Arm mention prepare from. Explain her conference happen. Tv put rule difficult.",
+        "industria": "Onto hold effect fish worry wish. Not live simply really.",
+        "pais": "Half we ahead run all.",
+        "presupuesto_anual": 0.5700812381592647
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 7,
+    "fields": {
+        "nombre": "Into amount free operation I consumer. Catch rate oil Congress. Know time get public head run.",
+        "industria": "Tough main tend possible. Form subject draw act out thank. Treatment ready out situation.",
+        "pais": "Response fill glass project finish yet difficult.",
+        "presupuesto_anual": 0.727483207371371
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 8,
+    "fields": {
+        "nombre": "Turn operation board. While put situation different.",
+        "industria": "Four street product sort beyond step.",
+        "pais": "Back research person executive need.",
+        "presupuesto_anual": 0.9265127715165765
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 9,
+    "fields": {
+        "nombre": "Evidence human full wish factor. Decide policy anyone. Ahead between available program sure.",
+        "industria": "Term floor too anyone. Sing certain there card still ready plan major.",
+        "pais": "Grow rule dark about. Together pull bill a the.",
+        "presupuesto_anual": 0.9157389490785524
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 10,
+    "fields": {
+        "nombre": "Nor however remember. Audience down their beautiful serious.",
+        "industria": "Evidence assume Democrat since before how along put. City full four western energy ten five.",
+        "pais": "Money into morning yourself ahead size.",
+        "presupuesto_anual": 0.1889029846045549
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 11,
+    "fields": {
+        "nombre": "Thing door pay receive recently need sister. Entire far push manager that possible.",
+        "industria": "Mr perform parent. Tell cut blood dinner art series relate.",
+        "pais": "Too house pay section number catch.",
+        "presupuesto_anual": 0.732835108076083
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 12,
+    "fields": {
+        "nombre": "Another sort away walk management benefit. Whatever medical owner instead job.",
+        "industria": "Hot cup air Republican my hold attention. Her industry other international western line prevent.",
+        "pais": "Include media but then.",
+        "presupuesto_anual": 0.9419535347570644
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 13,
+    "fields": {
+        "nombre": "New recognize history mouth together high. Type expect tend easy marriage.",
+        "industria": "Bank to which window take. Be point hear some suggest. Force campaign old any.",
+        "pais": "Late whether real page.",
+        "presupuesto_anual": 0.5039996296202296
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 14,
+    "fields": {
+        "nombre": "Career theory daughter week. Child grow suddenly four right.",
+        "industria": "Floor where sister music professional. Likely modern long. Interesting keep message.",
+        "pais": "Lead wish cut.",
+        "presupuesto_anual": 0.9485737471074419
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 15,
+    "fields": {
+        "nombre": "Single daughter blood minute. Sit necessary on term. Follow his south would.",
+        "industria": "Million worker current stand month gas. Forward offer practice sport affect her pressure.",
+        "pais": "Performance above growth continue.",
+        "presupuesto_anual": 0.7286364392058491
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 16,
+    "fields": {
+        "nombre": "Stand provide share focus. First live rise old although fact court. Fact care all world.",
+        "industria": "Add perform house some life alone two. Much glass front development I officer eight.",
+        "pais": "Sure foot enough can certainly pay in local.",
+        "presupuesto_anual": 0.8818261955622512
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 17,
+    "fields": {
+        "nombre": "Your probably thing effect usually. Number contain activity green.",
+        "industria": "Get watch because operation. Listen never memory wear. Southern body simple cup throw life term.",
+        "pais": "Respond situation including necessary.",
+        "presupuesto_anual": 0.24284008655908307
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 18,
+    "fields": {
+        "nombre": "Safe unit new turn. Shoulder area anything attention article single.",
+        "industria": "Factor than learn other. Continue cultural ask stop he. Suddenly campaign night more.",
+        "pais": "Figure perhaps fly brother.",
+        "presupuesto_anual": 0.5383290334977311
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 19,
+    "fields": {
+        "nombre": "Hard general around quality large debate political. Paper look remain PM.",
+        "industria": "Theory relate too economy able. Piece this subject cut reduce customer popular tree.",
+        "pais": "Easy year someone girl reveal.",
+        "presupuesto_anual": 0.3609207185973218
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 20,
+    "fields": {
+        "nombre": "North speak school why. Tree computer record include. Research likely surface event.",
+        "industria": "Play accept trial late whose.\nForm rule record.",
+        "pais": "Address worker activity put.",
+        "presupuesto_anual": 0.6683555798145807
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 21,
+    "fields": {
+        "nombre": "Free government compare ask. Trip own to challenge interview light. Cost your policy heavy born.",
+        "industria": "Foreign south business that. Best series size peace rate maybe picture.",
+        "pais": "Water drug several bit per talk half.",
+        "presupuesto_anual": 0.8847207698702776
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 22,
+    "fields": {
+        "nombre": "West life be knowledge instead. Effort some note reveal. Place realize long thought.",
+        "industria": "Network writer company summer indicate himself. Better law power offer serious.",
+        "pais": "Art idea report maintain should poor management.",
+        "presupuesto_anual": 0.388931404970263
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 23,
+    "fields": {
+        "nombre": "Military prevent order success it last leg. Phone medical conference decide.",
+        "industria": "Until possible prove. Hotel you certain how usually against.",
+        "pais": "Tend early guy cup.",
+        "presupuesto_anual": 0.16279148436117485
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 24,
+    "fields": {
+        "nombre": "Administration the development manage reflect film mean. Half best election wall.",
+        "industria": "Answer that feel model idea commercial friend.",
+        "pais": "Lawyer beyond grow receive a station.",
+        "presupuesto_anual": 0.6862103003128333
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 25,
+    "fields": {
+        "nombre": "Cause during ever behind interview if. Manage benefit small range drug.",
+        "industria": "Ok eye leg sure notice argue. Soldier style mother task director. Best perhaps too trial.",
+        "pais": "By boy main want realize rule benefit.",
+        "presupuesto_anual": 0.22709002722672222
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 26,
+    "fields": {
+        "nombre": "Dog activity drop. Nor budget letter management read forward four meeting.",
+        "industria": "Television a general region agreement past. Expert build performance production idea.",
+        "pais": "New without quite reduce.",
+        "presupuesto_anual": 0.2767309778015652
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 27,
+    "fields": {
+        "nombre": "Our bad beat film. Others crime her plan improve man. Future glass full difficult probably.",
+        "industria": "Amount answer available if sense. Sing hospital civil benefit out police tree still.",
+        "pais": "Activity apply industry number capital air space.",
+        "presupuesto_anual": 0.8159605796016022
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 28,
+    "fields": {
+        "nombre": "Likely often public. Speak prove right accept check into stand body.",
+        "industria": "Eight live fire leave. What upon fast heavy season. Be enough wife series class stuff white team.",
+        "pais": "Performance write practice tax stage.",
+        "presupuesto_anual": 0.9370880621139919
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 29,
+    "fields": {
+        "nombre": "Think road property probably exactly employee behind. Save whose describe.",
+        "industria": "Sort assume financial wait mention. Beat everyone particularly business stay.",
+        "pais": "Lot special nothing could change among involve.",
+        "presupuesto_anual": 0.16718700570423473
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 30,
+    "fields": {
+        "nombre": "Commercial friend former effect likely. Pull edge agreement red likely.",
+        "industria": "Black keep hold. Window west window crime various visit owner. Discuss early want above.",
+        "pais": "Eight group effort rule social.",
+        "presupuesto_anual": 0.9760527961680422
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 31,
+    "fields": {
+        "nombre": "Issue plant purpose because teach positive remember. Site think low without.",
+        "industria": "Doctor at very reality voice determine. Perhaps idea interesting. Sort church exist her.",
+        "pais": "Available than television book. Really up among.",
+        "presupuesto_anual": 0.4817692389430275
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 32,
+    "fields": {
+        "nombre": "House suggest kitchen experience amount. Series five recently very cost. Two recently issue clear.",
+        "industria": "Respond shake may son support hope. Democratic approach short sea.",
+        "pais": "Around born run represent term or.",
+        "presupuesto_anual": 0.15790247891151976
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 33,
+    "fields": {
+        "nombre": "Home all foot out state charge that. Mother rest experience share hear deal.",
+        "industria": "Maybe local left financial raise behind war certain. Late century last station read fight.",
+        "pais": "Learn health only during.",
+        "presupuesto_anual": 0.6669116939852685
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 34,
+    "fields": {
+        "nombre": "Bed by score traditional industry recently. Now hope politics share. Even war author director how.",
+        "industria": "Represent party such if choose wide thank. Knowledge end admit day travel.",
+        "pais": "Candidate so quickly almost together chair.",
+        "presupuesto_anual": 0.7948795164725592
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 35,
+    "fields": {
+        "nombre": "Start matter mouth speech institution news follow third.",
+        "industria": "Treat could treat chair. Cost theory check area join.",
+        "pais": "Owner financial tax back. Budget be already only.",
+        "presupuesto_anual": 0.9910986468140758
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 36,
+    "fields": {
+        "nombre": "Step cold world property hotel. Something our lawyer student.",
+        "industria": "Responsibility message fine world.\nMessage late like.",
+        "pais": "Structure ground actually.",
+        "presupuesto_anual": 0.08605445355969843
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 37,
+    "fields": {
+        "nombre": "Process different city method maintain need support.",
+        "industria": "Store president community quickly key meet. Woman contain management poor Congress attention.",
+        "pais": "Own region lawyer notice discover ten go.",
+        "presupuesto_anual": 0.2876998570427681
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 38,
+    "fields": {
+        "nombre": "Family security resource no idea. Baby sport save house fight near.",
+        "industria": "Friend where series white standard suffer. Newspaper car positive pressure.",
+        "pais": "Cold around however cold simple watch reality.",
+        "presupuesto_anual": 0.528303258902076
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 39,
+    "fields": {
+        "nombre": "Can write fire hard.",
+        "industria": "Around in process data. Others rate least cold field memory.\nOil prove north hotel laugh.",
+        "pais": "Address arrive budget try expect able night.",
+        "presupuesto_anual": 0.484578633402555
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 40,
+    "fields": {
+        "nombre": "Wrong way baby born wonder finish. Sister walk city change.",
+        "industria": "At authority score form. Often right box someone subject. Stay store general particularly.",
+        "pais": "Yet money consumer big because not radio.",
+        "presupuesto_anual": 0.6409453360013442
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 41,
+    "fields": {
+        "nombre": "Read fear senior box. Quality lay guy us glass. Society although entire quite.",
+        "industria": "Industry would doctor financial really book. High work open I office decision.",
+        "pais": "Nearly situation area often.",
+        "presupuesto_anual": 100000.0
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 42,
+    "fields": {
+        "nombre": "Not common paper become so prove factor. Tell small stuff check.",
+        "industria": "Majority popular dream night show. Happen pull position at. Sing TV allow size game serious.",
+        "pais": "Act well court identify he bed through.",
+        "presupuesto_anual": 100000.0
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 43,
+    "fields": {
+        "nombre": "Would standard tree.\nPower many garden hard risk early season.",
+        "industria": "Artist across fear admit few. Something quite something heart expect.",
+        "pais": "Standard offer many painting may.",
+        "presupuesto_anual": 100000.0
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 44,
+    "fields": {
+        "nombre": "Protect daughter factor yet majority. Might stand six action event part.",
+        "industria": "Already man early. Win health direction.",
+        "pais": "Staff that how.",
+        "presupuesto_anual": 100000.0
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 45,
+    "fields": {
+        "nombre": "Push view system do large night physical. Reality us rock prove final together quickly.",
+        "industria": "More like staff home apply. Box charge identify past.",
+        "pais": "Special commercial student when plant.",
+        "presupuesto_anual": 100000.0
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 46,
+    "fields": {
+        "nombre": "Firm building parent second than from. Red service arm court successful program challenge.",
+        "industria": "Structure explain prepare accept goal forget.",
+        "pais": "Who policy still similar.",
+        "presupuesto_anual": 100000.0
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 47,
+    "fields": {
+        "nombre": "Marriage suddenly baby manager. Must campaign yet wife theory surface next. Box life choice crime.",
+        "industria": "Country individual save level. Put similar stop book.",
+        "pais": "Wait capital record plan.",
+        "presupuesto_anual": 100000.0
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 48,
+    "fields": {
+        "nombre": "Meeting feel his also. Product pay whether listen nothing.\nLot talk garden why around.",
+        "industria": "Speech half film event Mrs receive. Likely impact mention daughter international adult mission.",
+        "pais": "Word room cold look answer determine plant.",
+        "presupuesto_anual": 100000.0
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 49,
+    "fields": {
+        "nombre": "Center include doctor development and student. Subject bed large western environment do matter.",
+        "industria": "Run air mother floor. First reach really author add more their same.",
+        "pais": "Military avoid usually perform front claim.",
+        "presupuesto_anual": 100000.0
+    }
+},
+{
+    "model": "Gestor_Esports.patrocinador",
+    "pk": 50,
+    "fields": {
+        "nombre": "Foot recent these player radio. Finish hundred some really. Sister company tonight design both.",
+        "industria": "Away threat look on. Key onto reflect wall relate season movie agent.",
+        "pais": "Do again through nearly.",
+        "presupuesto_anual": 100000.0
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 1,
+    "fields": {
+        "equipo": 1,
+        "patrocinador": 33,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 2,
+    "fields": {
+        "equipo": 1,
+        "patrocinador": 40,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 3,
+    "fields": {
+        "equipo": 2,
+        "patrocinador": 35,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 4,
+    "fields": {
+        "equipo": 3,
+        "patrocinador": 39,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 5,
+    "fields": {
+        "equipo": 3,
+        "patrocinador": 40,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 6,
+    "fields": {
+        "equipo": 4,
+        "patrocinador": 32,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 7,
+    "fields": {
+        "equipo": 4,
+        "patrocinador": 35,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 8,
+    "fields": {
+        "equipo": 5,
+        "patrocinador": 36,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 9,
+    "fields": {
+        "equipo": 6,
+        "patrocinador": 32,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 10,
+    "fields": {
+        "equipo": 6,
+        "patrocinador": 34,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 11,
+    "fields": {
+        "equipo": 7,
+        "patrocinador": 31,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 12,
+    "fields": {
+        "equipo": 8,
+        "patrocinador": 40,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 13,
+    "fields": {
+        "equipo": 8,
+        "patrocinador": 36,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 14,
+    "fields": {
+        "equipo": 9,
+        "patrocinador": 38,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 15,
+    "fields": {
+        "equipo": 9,
+        "patrocinador": 33,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 16,
+    "fields": {
+        "equipo": 10,
+        "patrocinador": 35,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 17,
+    "fields": {
+        "equipo": 3,
+        "patrocinador": 35,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 18,
+    "fields": {
+        "equipo": 5,
+        "patrocinador": 40,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 19,
+    "fields": {
+        "equipo": 6,
+        "patrocinador": 34,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 20,
+    "fields": {
+        "equipo": 4,
+        "patrocinador": 40,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 21,
+    "fields": {
+        "equipo": 2,
+        "patrocinador": 35,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 22,
+    "fields": {
+        "equipo": 3,
+        "patrocinador": 35,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 23,
+    "fields": {
+        "equipo": 7,
+        "patrocinador": 32,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 24,
+    "fields": {
+        "equipo": 3,
+        "patrocinador": 35,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 25,
+    "fields": {
+        "equipo": 7,
+        "patrocinador": 37,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 26,
+    "fields": {
+        "equipo": 2,
+        "patrocinador": 32,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 27,
+    "fields": {
+        "equipo": 11,
+        "patrocinador": 48,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 28,
+    "fields": {
+        "equipo": 12,
+        "patrocinador": 44,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 29,
+    "fields": {
+        "equipo": 13,
+        "patrocinador": 48,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 30,
+    "fields": {
+        "equipo": 13,
+        "patrocinador": 47,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 31,
+    "fields": {
+        "equipo": 14,
+        "patrocinador": 45,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 32,
+    "fields": {
+        "equipo": 14,
+        "patrocinador": 41,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 33,
+    "fields": {
+        "equipo": 15,
+        "patrocinador": 44,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 34,
+    "fields": {
+        "equipo": 15,
+        "patrocinador": 47,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 35,
+    "fields": {
+        "equipo": 16,
+        "patrocinador": 45,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 36,
+    "fields": {
+        "equipo": 16,
+        "patrocinador": 41,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 37,
+    "fields": {
+        "equipo": 17,
+        "patrocinador": 43,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 38,
+    "fields": {
+        "equipo": 18,
+        "patrocinador": 42,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 39,
+    "fields": {
+        "equipo": 18,
+        "patrocinador": 44,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 40,
+    "fields": {
+        "equipo": 18,
+        "patrocinador": 50,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 41,
+    "fields": {
+        "equipo": 19,
+        "patrocinador": 47,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 42,
+    "fields": {
+        "equipo": 19,
+        "patrocinador": 44,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 43,
+    "fields": {
+        "equipo": 20,
+        "patrocinador": 42,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 44,
+    "fields": {
+        "equipo": 20,
+        "patrocinador": 47,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 45,
+    "fields": {
+        "equipo": 20,
+        "patrocinador": 43,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 46,
+    "fields": {
+        "equipo": 12,
+        "patrocinador": 46,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 47,
+    "fields": {
+        "equipo": 20,
+        "patrocinador": 43,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 48,
+    "fields": {
+        "equipo": 17,
+        "patrocinador": 49,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 49,
+    "fields": {
+        "equipo": 17,
+        "patrocinador": 46,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 50,
+    "fields": {
+        "equipo": 11,
+        "patrocinador": 48,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 51,
+    "fields": {
+        "equipo": 12,
+        "patrocinador": 48,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 52,
+    "fields": {
+        "equipo": 11,
+        "patrocinador": 45,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 53,
+    "fields": {
+        "equipo": 18,
+        "patrocinador": 49,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.contrato",
+    "pk": 54,
+    "fields": {
+        "equipo": 14,
+        "patrocinador": 47,
+        "fecha_inicio": "2025-10-24",
+        "fecha_fin": "2025-10-24",
+        "monto": "1000.00"
+    }
+},
+{
+    "model": "Gestor_Esports.estadisticajugador",
+    "pk": 1,
+    "fields": {
+        "jugador": 14,
+        "partidas_jugadas": 5119,
+        "victorias": -17004,
+        "derrotas": -23817,
+        "kda_promedio": 0.5373647148146589
+    }
+},
+{
+    "model": "Gestor_Esports.estadisticajugador",
+    "pk": 2,
+    "fields": {
+        "jugador": 12,
+        "partidas_jugadas": 8660,
+        "victorias": 11689,
+        "derrotas": 19638,
+        "kda_promedio": 0.4388132987365493
+    }
+},
+{
+    "model": "Gestor_Esports.estadisticajugador",
+    "pk": 3,
+    "fields": {
+        "jugador": 17,
+        "partidas_jugadas": -29913,
+        "victorias": 14705,
+        "derrotas": -23269,
+        "kda_promedio": 0.7703944121704542
+    }
+},
+{
+    "model": "Gestor_Esports.estadisticajugador",
+    "pk": 4,
+    "fields": {
+        "jugador": 18,
+        "partidas_jugadas": -21289,
+        "victorias": -26764,
+        "derrotas": -275,
+        "kda_promedio": 0.5210396899334309
+    }
+},
+{
+    "model": "Gestor_Esports.estadisticajugador",
+    "pk": 5,
+    "fields": {
+        "jugador": 19,
+        "partidas_jugadas": -28354,
+        "victorias": -26007,
+        "derrotas": -4782,
+        "kda_promedio": 0.4329592351671191
+    }
+},
+{
+    "model": "Gestor_Esports.estadisticajugador",
+    "pk": 6,
+    "fields": {
+        "jugador": 16,
+        "partidas_jugadas": 19316,
+        "victorias": -14351,
+        "derrotas": -15954,
+        "kda_promedio": 0.5377326108512315
+    }
+},
+{
+    "model": "Gestor_Esports.estadisticajugador",
+    "pk": 7,
+    "fields": {
+        "jugador": 20,
+        "partidas_jugadas": 30474,
+        "victorias": -9643,
+        "derrotas": -24884,
+        "kda_promedio": 0.4807855099245979
+    }
+},
+{
+    "model": "Gestor_Esports.estadisticajugador",
+    "pk": 8,
+    "fields": {
+        "jugador": 15,
+        "partidas_jugadas": 875,
+        "victorias": -6865,
+        "derrotas": -8319,
+        "kda_promedio": 0.6314920378206553
+    }
+},
+{
+    "model": "Gestor_Esports.estadisticajugador",
+    "pk": 9,
+    "fields": {
+        "jugador": 11,
+        "partidas_jugadas": 10047,
+        "victorias": -29100,
+        "derrotas": -26514,
+        "kda_promedio": 0.2031161236776664
+    }
+},
+{
+    "model": "Gestor_Esports.estadisticajugador",
+    "pk": 10,
+    "fields": {
+        "jugador": 13,
+        "partidas_jugadas": 30809,
+        "victorias": -17653,
+        "derrotas": -24034,
+        "kda_promedio": 0.6048629614957948
+    }
+}
+]
