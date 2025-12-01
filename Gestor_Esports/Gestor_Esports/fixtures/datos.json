@@ -1,0 +1,1852 @@
+[
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add plataforma",
+        "content_type": 7,
+        "codename": "add_plataforma"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change plataforma",
+        "content_type": 7,
+        "codename": "change_plataforma"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete plataforma",
+        "content_type": 7,
+        "codename": "delete_plataforma"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view plataforma",
+        "content_type": 7,
+        "codename": "view_plataforma"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add partido",
+        "content_type": 8,
+        "codename": "add_partido"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change partido",
+        "content_type": 8,
+        "codename": "change_partido"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete partido",
+        "content_type": 8,
+        "codename": "delete_partido"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view partido",
+        "content_type": 8,
+        "codename": "view_partido"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add juego",
+        "content_type": 9,
+        "codename": "add_juego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change juego",
+        "content_type": 9,
+        "codename": "change_juego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete juego",
+        "content_type": 9,
+        "codename": "delete_juego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view juego",
+        "content_type": 9,
+        "codename": "view_juego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add inscripcion torneo",
+        "content_type": 10,
+        "codename": "add_inscripciontorneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change inscripcion torneo",
+        "content_type": 10,
+        "codename": "change_inscripciontorneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete inscripcion torneo",
+        "content_type": 10,
+        "codename": "delete_inscripciontorneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view inscripcion torneo",
+        "content_type": 10,
+        "codename": "view_inscripciontorneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add equipo",
+        "content_type": 11,
+        "codename": "add_equipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change equipo",
+        "content_type": 11,
+        "codename": "change_equipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete equipo",
+        "content_type": 11,
+        "codename": "delete_equipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view equipo",
+        "content_type": 11,
+        "codename": "view_equipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+        "name": "Can add perfil jugador",
+        "content_type": 12,
+        "codename": "add_perfiljugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+        "name": "Can change perfil jugador",
+        "content_type": 12,
+        "codename": "change_perfiljugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+        "name": "Can delete perfil jugador",
+        "content_type": 12,
+        "codename": "delete_perfiljugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+        "name": "Can view perfil jugador",
+        "content_type": 12,
+        "codename": "view_perfiljugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+        "name": "Can add torneo",
+        "content_type": 13,
+        "codename": "add_torneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+        "name": "Can change torneo",
+        "content_type": 13,
+        "codename": "change_torneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+        "name": "Can delete torneo",
+        "content_type": 13,
+        "codename": "delete_torneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+        "name": "Can view torneo",
+        "content_type": 13,
+        "codename": "view_torneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+        "name": "Can add resultado partido",
+        "content_type": 14,
+        "codename": "add_resultadopartido"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+        "name": "Can change resultado partido",
+        "content_type": 14,
+        "codename": "change_resultadopartido"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+        "name": "Can delete resultado partido",
+        "content_type": 14,
+        "codename": "delete_resultadopartido"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+        "name": "Can view resultado partido",
+        "content_type": 14,
+        "codename": "view_resultadopartido"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+        "name": "Can add sponsor",
+        "content_type": 15,
+        "codename": "add_sponsor"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+        "name": "Can change sponsor",
+        "content_type": 15,
+        "codename": "change_sponsor"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+        "name": "Can delete sponsor",
+        "content_type": 15,
+        "codename": "delete_sponsor"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+        "name": "Can view sponsor",
+        "content_type": 15,
+        "codename": "view_sponsor"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+        "name": "Can add jugador",
+        "content_type": 16,
+        "codename": "add_jugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+        "name": "Can change jugador",
+        "content_type": 16,
+        "codename": "change_jugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+        "name": "Can delete jugador",
+        "content_type": 16,
+        "codename": "delete_jugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+        "name": "Can view jugador",
+        "content_type": 16,
+        "codename": "view_jugador"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$DIsOgYxKnD6rmM4DpbkgzG$fgQbxCN+Yrv4KlmAVyxRdOP/47vxeFvoO2B+qJl+GAA=",
+        "last_login": "2025-12-01T09:00:05.616",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2025-12-01T08:56:27.961",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "plataforma"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "partido"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "juego"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "inscripciontorneo"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "equipo"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "perfiljugador"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "torneo"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "resultadopartido"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "sponsor"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+        "app_label": "Gestor_Esports",
+        "model": "jugador"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "uatkntiurn4oiipb4ijkmyo4jm3b072z",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSFQ3i7d-w1kgBmpGkhKuzL-uzbpQrf3nHNfLMK21rgNXOJc2JlJdvrdEuQHth2UO7Rb57m3dZkT3xV-0MGvveDzcrh_BxVG_dY66IKUJwNWgc-GUkDpvAQEITJo5wspmRRlZz1JPTkhfbEGKCAQEXt_APziOMw:1vPypJ:2keDdPShNAE0hP_eQBwMb2fT7BRhMU4WpqGY2WARcvE",
+        "expire_date": "2025-12-15T09:00:05.619"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 1,
+    "fields": {
+        "nombre": "Animal Arena",
+        "descripcion": "Relate effect good unit generation order customer. Kind available Mrs wall difference.",
+        "genero": "MOBA",
+        "fecha_lanzamiento": "2019-06-07"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 2,
+    "fields": {
+        "nombre": "Population Arena",
+        "descripcion": "Specific southern Democrat interest ground stay. Create necessary color side. Get plant protect likely against certain ok.\nProve try key box training carry safe business.",
+        "genero": "FPS",
+        "fecha_lanzamiento": "2021-12-05"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 3,
+    "fields": {
+        "nombre": "Budget Arena",
+        "descripcion": "Media film arm base measure. Include necessary start become. Also meet trade sort cell any sign.",
+        "genero": "Battle Royale",
+        "fecha_lanzamiento": "2024-02-17"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 4,
+    "fields": {
+        "nombre": "Per Arena",
+        "descripcion": "Seven water threat. Benefit language lead lot. Rich need region evening evening. Him compare majority meet concern believe draw.",
+        "genero": "FPS",
+        "fecha_lanzamiento": "2017-11-25"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 5,
+    "fields": {
+        "nombre": "Plant Arena",
+        "descripcion": "Likely hand without. Trip reality similar better. Eye question general.\nOthers religious wrong doctor sort. Nor actually figure budget Mr interest mission agent.",
+        "genero": "Lucha",
+        "fecha_lanzamiento": "2025-06-19"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 6,
+    "fields": {
+        "nombre": "Act Arena",
+        "descripcion": "Themselves interview heavy listen suffer some someone. Spend write fast adult road.\nSure age word structure attorney build. Case time Congress no run style agency.",
+        "genero": "Battle Royale",
+        "fecha_lanzamiento": "2024-09-11"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 7,
+    "fields": {
+        "nombre": "Nation Arena",
+        "descripcion": "Fight two old notice rock. Process involve country later yes.\nStrong body responsibility attention field indicate.\nSeem among kid. Pull second rich actually almost right risk.",
+        "genero": "FPS",
+        "fecha_lanzamiento": "2022-08-03"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 8,
+    "fields": {
+        "nombre": "Next Arena",
+        "descripcion": "Everyone product must far. Value nation Congress my. Help democratic win something.\nPut wear up evidence government over position chair. Energy baby ago capital. Reason between middle both.",
+        "genero": "Battle Royale",
+        "fecha_lanzamiento": "2022-04-03"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 9,
+    "fields": {
+        "nombre": "Matter Arena",
+        "descripcion": "Work how point about idea. Let beyond investment.\nMoment who politics trade political situation will prove. Police section answer culture brother method. Floor pay how together table firm.",
+        "genero": "FPS",
+        "fecha_lanzamiento": "2019-04-13"
+    }
+},
+{
+    "model": "Gestor_Esports.juego",
+    "pk": 10,
+    "fields": {
+        "nombre": "Surface Arena",
+        "descripcion": "It include recent contain. As not tell figure. Listen tax city think public feeling.\nName themselves throughout car one soldier mind. Industry couple throw common.",
+        "genero": "MOBA",
+        "fecha_lanzamiento": "2023-05-13"
+    }
+},
+{
+    "model": "Gestor_Esports.plataforma",
+    "pk": 1,
+    "fields": {
+        "nombre": "Wright, Bullock and Davis",
+        "fabricante": "Aguirre and Sons",
+        "sitio_web": "http://ortega.org/",
+        "activa": false
+    }
+},
+{
+    "model": "Gestor_Esports.plataforma",
+    "pk": 2,
+    "fields": {
+        "nombre": "Foster Group",
+        "fabricante": "Palmer-Andrews",
+        "sitio_web": "http://strickland.com/",
+        "activa": false
+    }
+},
+{
+    "model": "Gestor_Esports.plataforma",
+    "pk": 3,
+    "fields": {
+        "nombre": "Brown-Russell",
+        "fabricante": "Yoder, Contreras and Graham",
+        "sitio_web": "http://brown.info/",
+        "activa": false
+    }
+},
+{
+    "model": "Gestor_Esports.plataforma",
+    "pk": 4,
+    "fields": {
+        "nombre": "Baldwin, Robertson and Foley",
+        "fabricante": "Hughes, Ford and Tran",
+        "sitio_web": "https://www.holland-miller.com/",
+        "activa": false
+    }
+},
+{
+    "model": "Gestor_Esports.plataforma",
+    "pk": 5,
+    "fields": {
+        "nombre": "Larson and Sons",
+        "fabricante": "Lopez, Kennedy and Robertson",
+        "sitio_web": "https://knight.org/",
+        "activa": true
+    }
+},
+{
+    "model": "Gestor_Esports.plataforma",
+    "pk": 6,
+    "fields": {
+        "nombre": "Griffin, Porter and Robertson",
+        "fabricante": "Scott Ltd",
+        "sitio_web": "https://www.durham-rodriguez.org/",
+        "activa": false
+    }
+},
+{
+    "model": "Gestor_Esports.plataforma",
+    "pk": 7,
+    "fields": {
+        "nombre": "Snyder PLC",
+        "fabricante": "Lara-Baird",
+        "sitio_web": "https://fischer-mendez.org/",
+        "activa": true
+    }
+},
+{
+    "model": "Gestor_Esports.plataforma",
+    "pk": 8,
+    "fields": {
+        "nombre": "Garcia Ltd",
+        "fabricante": "Barnes LLC",
+        "sitio_web": "http://hernandez-patterson.net/",
+        "activa": true
+    }
+},
+{
+    "model": "Gestor_Esports.plataforma",
+    "pk": 9,
+    "fields": {
+        "nombre": "Cervantes-Ramirez",
+        "fabricante": "Tate-Cooper",
+        "sitio_web": "http://www.sampson.org/",
+        "activa": true
+    }
+},
+{
+    "model": "Gestor_Esports.plataforma",
+    "pk": 10,
+    "fields": {
+        "nombre": "Juarez-Preston",
+        "fabricante": "Blevins-Garcia",
+        "sitio_web": "https://burch-miller.net/",
+        "activa": true
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 1,
+    "fields": {
+        "nombre": "Norman, Thompson and Hernandez Esports",
+        "pais": "Palau",
+        "fecha_creacion": "2021-11-24",
+        "juegos": [
+            8
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 2,
+    "fields": {
+        "nombre": "Horn-Jones Esports",
+        "pais": "Azerbaijan",
+        "fecha_creacion": "2025-04-19",
+        "juegos": [
+            1,
+            2,
+            4
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 3,
+    "fields": {
+        "nombre": "Price, Curtis and Walker Esports",
+        "pais": "Grenada",
+        "fecha_creacion": "2023-12-10",
+        "juegos": [
+            1,
+            7
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 4,
+    "fields": {
+        "nombre": "Taylor-Reyes Esports",
+        "pais": "Maldives",
+        "fecha_creacion": "2025-04-20",
+        "juegos": [
+            1,
+            2,
+            8
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 5,
+    "fields": {
+        "nombre": "Murphy, Adams and Lester Esports",
+        "pais": "Saint Pierre and Miquelon",
+        "fecha_creacion": "2023-01-12",
+        "juegos": [
+            2,
+            5
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 6,
+    "fields": {
+        "nombre": "Gilbert, Wong and Fisher Esports",
+        "pais": "United Arab Emirates",
+        "fecha_creacion": "2024-01-25",
+        "juegos": [
+            1,
+            5,
+            10
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 7,
+    "fields": {
+        "nombre": "Johnson LLC Esports",
+        "pais": "Barbados",
+        "fecha_creacion": "2023-08-04",
+        "juegos": [
+            3
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 8,
+    "fields": {
+        "nombre": "Dodson, Moss and Schmitt Esports",
+        "pais": "Cook Islands",
+        "fecha_creacion": "2022-10-17",
+        "juegos": [
+            1,
+            6,
+            8
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 9,
+    "fields": {
+        "nombre": "Lewis-Clark Esports",
+        "pais": "Armenia",
+        "fecha_creacion": "2024-04-27",
+        "juegos": [
+            4,
+            9
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.equipo",
+    "pk": 10,
+    "fields": {
+        "nombre": "Mccormick-Finley Esports",
+        "pais": "Philippines",
+        "fecha_creacion": "2024-07-20",
+        "juegos": [
+            6,
+            7,
+            8
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 1,
+    "fields": {
+        "nickname": "stephaniedavis",
+        "nombre_real": "Alexander Garcia",
+        "edad": 35,
+        "equipo": 6,
+        "rol": "igl"
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 2,
+    "fields": {
+        "nickname": "turneramanda",
+        "nombre_real": "David Smith",
+        "edad": 29,
+        "equipo": 8,
+        "rol": "dps"
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 3,
+    "fields": {
+        "nickname": "sarah92",
+        "nombre_real": "Leslie Moran",
+        "edad": 15,
+        "equipo": 2,
+        "rol": "igl"
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 4,
+    "fields": {
+        "nickname": "qsutton",
+        "nombre_real": "Walter Davis",
+        "edad": 20,
+        "equipo": 8,
+        "rol": "igl"
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 5,
+    "fields": {
+        "nickname": "rebekahhernandez",
+        "nombre_real": "Angela Mason",
+        "edad": 15,
+        "equipo": 9,
+        "rol": "igl"
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 6,
+    "fields": {
+        "nickname": "michaelzhang",
+        "nombre_real": "Bryan Shaffer",
+        "edad": 35,
+        "equipo": 7,
+        "rol": "dps"
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 7,
+    "fields": {
+        "nickname": "kurt46",
+        "nombre_real": "Gary Duncan",
+        "edad": 14,
+        "equipo": 9,
+        "rol": "dps"
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 8,
+    "fields": {
+        "nickname": "melissa64",
+        "nombre_real": "Kimberly Bennett",
+        "edad": 15,
+        "equipo": 9,
+        "rol": "support"
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 9,
+    "fields": {
+        "nickname": "austinhall",
+        "nombre_real": "Timothy Nichols",
+        "edad": 33,
+        "equipo": 6,
+        "rol": "dps"
+    }
+},
+{
+    "model": "Gestor_Esports.jugador",
+    "pk": 10,
+    "fields": {
+        "nickname": "velasquezbecky",
+        "nombre_real": "Julie Graham",
+        "edad": 35,
+        "equipo": 3,
+        "rol": "tank"
+    }
+},
+{
+    "model": "Gestor_Esports.perfiljugador",
+    "pk": 1,
+    "fields": {
+        "jugador": 1,
+        "biografia": "Sense hold authority spring behavior. Hair if local himself others.\nToday method very wear. Eye research ahead leader note. Rise poor and necessary bad.",
+        "twitter": "http://www.walsh.com/",
+        "sensibilidad_raton": "1.45",
+        "dpi": 1600
+    }
+},
+{
+    "model": "Gestor_Esports.perfiljugador",
+    "pk": 2,
+    "fields": {
+        "jugador": 2,
+        "biografia": "Education matter push bring. Reduce from each fire yeah particular.\nBelieve specific fast hair. Major short ground. Control while hour attention might various by.",
+        "twitter": "https://www.fowler-peterson.com/",
+        "sensibilidad_raton": "2.39",
+        "dpi": 1600
+    }
+},
+{
+    "model": "Gestor_Esports.perfiljugador",
+    "pk": 3,
+    "fields": {
+        "jugador": 3,
+        "biografia": "Data hair member. Control almost another up.\nCourse near century agency continue. Lay himself official television deep full.\nMust television material begin bill. Picture while others series.",
+        "twitter": "https://fritz-lewis.com/",
+        "sensibilidad_raton": "2.49",
+        "dpi": 800
+    }
+},
+{
+    "model": "Gestor_Esports.perfiljugador",
+    "pk": 4,
+    "fields": {
+        "jugador": 4,
+        "biografia": "Must arrive similar knowledge. People goal term international reach beat. High teach marriage keep until around.\nCase air company power less maintain. Present watch imagine to.",
+        "twitter": "http://wallace-ward.com/",
+        "sensibilidad_raton": "2.34",
+        "dpi": 3200
+    }
+},
+{
+    "model": "Gestor_Esports.perfiljugador",
+    "pk": 5,
+    "fields": {
+        "jugador": 5,
+        "biografia": "Fear budget responsibility agreement level. Computer military anything national bill.",
+        "twitter": "http://www.ramos-miles.info/",
+        "sensibilidad_raton": "1.41",
+        "dpi": 1600
+    }
+},
+{
+    "model": "Gestor_Esports.perfiljugador",
+    "pk": 6,
+    "fields": {
+        "jugador": 6,
+        "biografia": "Scientist stock continue evening position whom. Standard indeed who question.",
+        "twitter": "https://www.sweeney.com/",
+        "sensibilidad_raton": "0.74",
+        "dpi": 400
+    }
+},
+{
+    "model": "Gestor_Esports.perfiljugador",
+    "pk": 7,
+    "fields": {
+        "jugador": 7,
+        "biografia": "Compare nearly decade while language.\nDraw structure live brother art itself. Teacher call build each second budget paper. Modern almost help soldier Congress.",
+        "twitter": "http://www.johnson-baxter.com/",
+        "sensibilidad_raton": "0.85",
+        "dpi": 400
+    }
+},
+{
+    "model": "Gestor_Esports.perfiljugador",
+    "pk": 8,
+    "fields": {
+        "jugador": 8,
+        "biografia": "Wear both region next road. Discussion eat get world first commercial who. Fill kitchen student just heavy woman even.\nQuite enter charge. Quite yourself several past parent such of under.",
+        "twitter": "http://freeman.com/",
+        "sensibilidad_raton": "2.07",
+        "dpi": 800
+    }
+},
+{
+    "model": "Gestor_Esports.perfiljugador",
+    "pk": 9,
+    "fields": {
+        "jugador": 9,
+        "biografia": "People defense realize likely Mr case peace. Which our general course.\nSign goal system. Glass ball expert leg statement. Tend music find fear.",
+        "twitter": "http://www.bailey.com/",
+        "sensibilidad_raton": "2.48",
+        "dpi": 3200
+    }
+},
+{
+    "model": "Gestor_Esports.perfiljugador",
+    "pk": 10,
+    "fields": {
+        "jugador": 10,
+        "biografia": "Skill black lawyer it explain card wish executive. Cause tax miss. Need city conference force third resource card.",
+        "twitter": "http://martin.com/",
+        "sensibilidad_raton": "0.61",
+        "dpi": 1600
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 1,
+    "fields": {
+        "nombre": "Customizable didactic solution Cup",
+        "juego": 1,
+        "fecha_inicio": "2025-05-18",
+        "fecha_fin": "2025-12-28",
+        "premio_total": "2235.00",
+        "plataformas": [
+            2,
+            5
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 2,
+    "fields": {
+        "nombre": "Reactive heuristic Graphic Interface Cup",
+        "juego": 10,
+        "fecha_inicio": "2025-02-25",
+        "fecha_fin": "2025-12-27",
+        "premio_total": "10674.00",
+        "plataformas": [
+            6
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 3,
+    "fields": {
+        "nombre": "De-engineered bottom-line Local Area Network Cup",
+        "juego": 7,
+        "fecha_inicio": "2025-06-25",
+        "fecha_fin": "2025-12-15",
+        "premio_total": "48342.00",
+        "plataformas": [
+            4,
+            6,
+            10
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 4,
+    "fields": {
+        "nombre": "Organic holistic analyzer Cup",
+        "juego": 6,
+        "fecha_inicio": "2025-05-03",
+        "fecha_fin": "2025-12-17",
+        "premio_total": "30615.00",
+        "plataformas": [
+            6,
+            8
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 5,
+    "fields": {
+        "nombre": "Streamlined 5thgeneration concept Cup",
+        "juego": 3,
+        "fecha_inicio": "2025-08-14",
+        "fecha_fin": "2025-12-07",
+        "premio_total": "34945.00",
+        "plataformas": [
+            5,
+            7
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 6,
+    "fields": {
+        "nombre": "Team-oriented secondary open architecture Cup",
+        "juego": 2,
+        "fecha_inicio": "2025-07-02",
+        "fecha_fin": "2025-12-11",
+        "premio_total": "46031.00",
+        "plataformas": [
+            5,
+            10
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 7,
+    "fields": {
+        "nombre": "Exclusive content-based collaboration Cup",
+        "juego": 2,
+        "fecha_inicio": "2025-02-18",
+        "fecha_fin": "2025-12-14",
+        "premio_total": "42885.00",
+        "plataformas": [
+            1,
+            4
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 8,
+    "fields": {
+        "nombre": "Centralized background archive Cup",
+        "juego": 9,
+        "fecha_inicio": "2025-02-18",
+        "fecha_fin": "2025-12-30",
+        "premio_total": "19072.00",
+        "plataformas": [
+            3,
+            6,
+            10
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 9,
+    "fields": {
+        "nombre": "Multi-tiered interactive help-desk Cup",
+        "juego": 9,
+        "fecha_inicio": "2025-11-18",
+        "fecha_fin": "2025-12-19",
+        "premio_total": "15826.00",
+        "plataformas": [
+            2,
+            8,
+            9
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.torneo",
+    "pk": 10,
+    "fields": {
+        "nombre": "Up-sized zero administration data-warehouse Cup",
+        "juego": 2,
+        "fecha_inicio": "2025-11-20",
+        "fecha_fin": "2025-12-03",
+        "premio_total": "40076.00",
+        "plataformas": [
+            6,
+            7,
+            8
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.partido",
+    "pk": 1,
+    "fields": {
+        "torneo": 4,
+        "equipo_local": 4,
+        "equipo_visitante": 7,
+        "fecha": "2025-07-29T04:59:41.038",
+        "finalizado": true
+    }
+},
+{
+    "model": "Gestor_Esports.partido",
+    "pk": 2,
+    "fields": {
+        "torneo": 5,
+        "equipo_local": 1,
+        "equipo_visitante": 9,
+        "fecha": "2025-10-21T02:54:43.228",
+        "finalizado": false
+    }
+},
+{
+    "model": "Gestor_Esports.partido",
+    "pk": 3,
+    "fields": {
+        "torneo": 10,
+        "equipo_local": 10,
+        "equipo_visitante": 6,
+        "fecha": "2025-09-12T01:19:01.681",
+        "finalizado": true
+    }
+},
+{
+    "model": "Gestor_Esports.partido",
+    "pk": 4,
+    "fields": {
+        "torneo": 2,
+        "equipo_local": 4,
+        "equipo_visitante": 8,
+        "fecha": "2025-03-10T10:35:57.450",
+        "finalizado": true
+    }
+},
+{
+    "model": "Gestor_Esports.partido",
+    "pk": 5,
+    "fields": {
+        "torneo": 4,
+        "equipo_local": 10,
+        "equipo_visitante": 8,
+        "fecha": "2025-08-02T10:43:29.197",
+        "finalizado": true
+    }
+},
+{
+    "model": "Gestor_Esports.partido",
+    "pk": 6,
+    "fields": {
+        "torneo": 1,
+        "equipo_local": 10,
+        "equipo_visitante": 6,
+        "fecha": "2025-06-26T14:28:53.878",
+        "finalizado": true
+    }
+},
+{
+    "model": "Gestor_Esports.partido",
+    "pk": 7,
+    "fields": {
+        "torneo": 3,
+        "equipo_local": 1,
+        "equipo_visitante": 8,
+        "fecha": "2025-10-02T16:48:17.099",
+        "finalizado": true
+    }
+},
+{
+    "model": "Gestor_Esports.partido",
+    "pk": 8,
+    "fields": {
+        "torneo": 4,
+        "equipo_local": 1,
+        "equipo_visitante": 3,
+        "fecha": "2025-04-22T05:21:08.135",
+        "finalizado": false
+    }
+},
+{
+    "model": "Gestor_Esports.partido",
+    "pk": 9,
+    "fields": {
+        "torneo": 9,
+        "equipo_local": 1,
+        "equipo_visitante": 10,
+        "fecha": "2025-04-28T10:00:14.342",
+        "finalizado": false
+    }
+},
+{
+    "model": "Gestor_Esports.partido",
+    "pk": 10,
+    "fields": {
+        "torneo": 10,
+        "equipo_local": 9,
+        "equipo_visitante": 4,
+        "fecha": "2025-04-30T06:16:16.015",
+        "finalizado": false
+    }
+},
+{
+    "model": "Gestor_Esports.resultadopartido",
+    "pk": 1,
+    "fields": {
+        "partido": 1,
+        "puntuacion_local": 1,
+        "puntuacion_visitante": 0,
+        "duracion": "00:55:00",
+        "mvp": 5
+    }
+},
+{
+    "model": "Gestor_Esports.resultadopartido",
+    "pk": 2,
+    "fields": {
+        "partido": 3,
+        "puntuacion_local": 2,
+        "puntuacion_visitante": 3,
+        "duracion": "00:51:00",
+        "mvp": 4
+    }
+},
+{
+    "model": "Gestor_Esports.resultadopartido",
+    "pk": 3,
+    "fields": {
+        "partido": 4,
+        "puntuacion_local": 2,
+        "puntuacion_visitante": 3,
+        "duracion": "00:46:00",
+        "mvp": 2
+    }
+},
+{
+    "model": "Gestor_Esports.resultadopartido",
+    "pk": 4,
+    "fields": {
+        "partido": 5,
+        "puntuacion_local": 0,
+        "puntuacion_visitante": 3,
+        "duracion": "00:26:00",
+        "mvp": 6
+    }
+},
+{
+    "model": "Gestor_Esports.resultadopartido",
+    "pk": 5,
+    "fields": {
+        "partido": 6,
+        "puntuacion_local": 3,
+        "puntuacion_visitante": 1,
+        "duracion": "00:56:00",
+        "mvp": 2
+    }
+},
+{
+    "model": "Gestor_Esports.resultadopartido",
+    "pk": 6,
+    "fields": {
+        "partido": 7,
+        "puntuacion_local": 1,
+        "puntuacion_visitante": 3,
+        "duracion": "01:00:00",
+        "mvp": 5
+    }
+},
+{
+    "model": "Gestor_Esports.sponsor",
+    "pk": 1,
+    "fields": {
+        "nombre": "Monroe Ltd Corp",
+        "sector": "Bebidas",
+        "sitio_web": "http://wells.org/",
+        "equipos": [
+            1,
+            3
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.sponsor",
+    "pk": 2,
+    "fields": {
+        "nombre": "Hicks PLC Corp",
+        "sector": "Bebidas",
+        "sitio_web": "https://lam.com/",
+        "equipos": [
+            10
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.sponsor",
+    "pk": 3,
+    "fields": {
+        "nombre": "Rodriguez, Quinn and White Corp",
+        "sector": "Bebidas",
+        "sitio_web": "http://www.chang-johnson.biz/",
+        "equipos": [
+            4,
+            8
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.sponsor",
+    "pk": 4,
+    "fields": {
+        "nombre": "Williams Ltd Corp",
+        "sector": "Tecnología",
+        "sitio_web": "https://turner.net/",
+        "equipos": [
+            2,
+            5,
+            7
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.sponsor",
+    "pk": 5,
+    "fields": {
+        "nombre": "Jimenez-Davenport Corp",
+        "sector": "Gaming",
+        "sitio_web": "https://www.moses-gonzalez.com/",
+        "equipos": [
+            2,
+            6
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.sponsor",
+    "pk": 6,
+    "fields": {
+        "nombre": "Giles Inc Corp",
+        "sector": "Bebidas",
+        "sitio_web": "http://www.allen.com/",
+        "equipos": [
+            4
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.sponsor",
+    "pk": 7,
+    "fields": {
+        "nombre": "Bowers, Doyle and Cisneros Corp",
+        "sector": "Gaming",
+        "sitio_web": "http://www.walker-williams.org/",
+        "equipos": [
+            9
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.sponsor",
+    "pk": 8,
+    "fields": {
+        "nombre": "Martin Group Corp",
+        "sector": "Tecnología",
+        "sitio_web": "http://www.turner.com/",
+        "equipos": [
+            4,
+            7
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.sponsor",
+    "pk": 9,
+    "fields": {
+        "nombre": "Herrera, Bridges and Willis Corp",
+        "sector": "Hardware",
+        "sitio_web": "https://www.kemp.net/",
+        "equipos": [
+            7
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.sponsor",
+    "pk": 10,
+    "fields": {
+        "nombre": "Nunez, Cooper and Andrews Corp",
+        "sector": "Bebidas",
+        "sitio_web": "https://miller.com/",
+        "equipos": [
+            2,
+            4,
+            9
+        ]
+    }
+},
+{
+    "model": "Gestor_Esports.inscripciontorneo",
+    "pk": 1,
+    "fields": {
+        "equipo": 1,
+        "torneo": 3,
+        "fecha_inscripcion": "2025-12-01T09:21:44.890",
+        "cuota_pagada": false,
+        "posicion_final": 10
+    }
+},
+{
+    "model": "Gestor_Esports.inscripciontorneo",
+    "pk": 2,
+    "fields": {
+        "equipo": 8,
+        "torneo": 2,
+        "fecha_inscripcion": "2025-12-01T09:21:44.893",
+        "cuota_pagada": false,
+        "posicion_final": 15
+    }
+},
+{
+    "model": "Gestor_Esports.inscripciontorneo",
+    "pk": 3,
+    "fields": {
+        "equipo": 3,
+        "torneo": 2,
+        "fecha_inscripcion": "2025-12-01T09:21:44.896",
+        "cuota_pagada": true,
+        "posicion_final": 12
+    }
+},
+{
+    "model": "Gestor_Esports.inscripciontorneo",
+    "pk": 4,
+    "fields": {
+        "equipo": 5,
+        "torneo": 9,
+        "fecha_inscripcion": "2025-12-01T09:21:44.898",
+        "cuota_pagada": true,
+        "posicion_final": 13
+    }
+},
+{
+    "model": "Gestor_Esports.inscripciontorneo",
+    "pk": 5,
+    "fields": {
+        "equipo": 3,
+        "torneo": 7,
+        "fecha_inscripcion": "2025-12-01T09:21:44.901",
+        "cuota_pagada": true,
+        "posicion_final": 2
+    }
+},
+{
+    "model": "Gestor_Esports.inscripciontorneo",
+    "pk": 6,
+    "fields": {
+        "equipo": 4,
+        "torneo": 3,
+        "fecha_inscripcion": "2025-12-01T09:21:44.903",
+        "cuota_pagada": true,
+        "posicion_final": 13
+    }
+},
+{
+    "model": "Gestor_Esports.inscripciontorneo",
+    "pk": 7,
+    "fields": {
+        "equipo": 6,
+        "torneo": 5,
+        "fecha_inscripcion": "2025-12-01T09:21:44.906",
+        "cuota_pagada": false,
+        "posicion_final": 13
+    }
+},
+{
+    "model": "Gestor_Esports.inscripciontorneo",
+    "pk": 8,
+    "fields": {
+        "equipo": 10,
+        "torneo": 3,
+        "fecha_inscripcion": "2025-12-01T09:21:44.908",
+        "cuota_pagada": true,
+        "posicion_final": 4
+    }
+},
+{
+    "model": "Gestor_Esports.inscripciontorneo",
+    "pk": 9,
+    "fields": {
+        "equipo": 1,
+        "torneo": 1,
+        "fecha_inscripcion": "2025-12-01T09:21:44.911",
+        "cuota_pagada": true,
+        "posicion_final": 12
+    }
+},
+{
+    "model": "Gestor_Esports.inscripciontorneo",
+    "pk": 10,
+    "fields": {
+        "equipo": 2,
+        "torneo": 4,
+        "fecha_inscripcion": "2025-12-01T09:21:44.913",
+        "cuota_pagada": false,
+        "posicion_final": 1
+    }
+}
+]
